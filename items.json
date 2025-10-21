@@ -1,0 +1,4285 @@
+[
+  {
+    "name": "STARK [B]",
+    "color": ["HD", "WW", "WF"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Raven Feather"}
+    ],
+    "image": "Gear/Season 1/STARK_boots.png"
+  },
+
+  {
+    "name": "STARK [C]",
+    "color": ["LS", "KW", "GH"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Raven Feather"}
+    ],
+    "image": "Gear/Season 1/STARK_chest.png"
+  },
+
+  {
+    "name": "STARK [H]",
+    "color": ["SK", "MP", "BI"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Raven Feather"}
+    ],
+    "image": "Gear/Season 1/STARK_helmet.png"
+  },
+
+  {
+    "name": "STARK [P]",
+    "color": ["CB", "GH", "IW"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Raven Feather"}
+    ],
+    "image": "Gear/Season 1/STARK_pants.png"
+  },
+
+  {
+    "name": "STARK [R]",
+    "color": ["DG", "WF", "GH"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Raven Feather"}
+    ],
+    "image": "Gear/Season 1/STARK_ring.png"
+  },
+
+  {
+    "name": "STARK [W]",
+    "color": ["GH", "BI", "WW"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Raven Feather"}
+    ],
+    "image": "Gear/Season 1/STARK_weapon.png"
+  },
+
+  {
+    "name": "LANNISTER [B]",
+    "color": ["WW", "MP", "SK"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Golden Claw"}
+    ],
+    "image": "Gear/Season 1/LANNISTER_boots.png"
+  },
+
+  {
+    "name": "LANNISTER [C]",
+    "color": ["BI", "IW", "DG"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Golden Claw"}
+    ],
+    "image": "Gear/Season 1/LANNISTER_chest.png"
+  },
+
+  {
+    "name": "LANNISTER [H]",
+    "color": ["SK", "HD", "BI"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Golden Claw"}
+    ],
+    "image": "Gear/Season 1/LANNISTER_helmet.png"
+  },
+
+  {
+    "name": "LANNISTER [P]",
+    "color": ["CB", "LS", "KW"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Golden Claw"}
+    ],
+    "image": "Gear/Season 1/LANNISTER_pants.png"
+  },
+
+  {
+    "name": "LANNISTER [R]",
+    "color": ["DG", "WF", "MP"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Golden Claw"}
+    ],
+    "image": "Gear/Season 1/LANNISTER_ring.png"
+  },
+
+  {
+    "name": "LANNISTER [W]",
+    "color": ["KW", "DG", "CB"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Golden Claw"}
+    ],
+    "image": "Gear/Season 1/LANNISTER_weapon.png"
+  },
+
+  {
+    "name": "DOTHRAKI [B]",
+    "color": ["DG", "LS", "WF"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Horse Hide"}
+    ],
+    "image": "Gear/Season 1/DOTHRAKI_boots.png"
+  },
+
+  {
+    "name": "DOTHRAKI [C]",
+    "color": ["GH", "KW", "HD"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Horse Hide"}
+    ],
+    "image": "Gear/Season 1/DOTHRAKI_chest.png"
+  },
+
+  {
+    "name": "DOTHRAKI [H]",
+    "color": ["WF", "MP", "GH"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Horse Hide"}
+    ],
+    "image": "Gear/Season 1/DOTHRAKI_helmet.png"
+  },
+
+  {
+    "name": "DOTHRAKI [P]",
+    "color": ["IW", "SK", "WW"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Horse Hide"}
+    ],
+    "image": "Gear/Season 1/DOTHRAKI_pants.png"
+  },
+
+  {
+    "name": "DOTHRAKI [R]",
+    "color": ["HD", "CB", "LS"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Horse Hide"}
+    ],
+    "image": "Gear/Season 1/DOTHRAKI_ring.png"
+  },
+
+  {
+    "name": "DOTHRAKI [W]",
+    "color": ["WW", "BI", "IW"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Horse Hide"}
+    ],
+    "image": "Gear/Season 1/DOTHRAKI_weapon.png"
+  },
+
+  {
+    "name": "QARTHEEN [B]",
+    "color": ["DG", "LS", "MP"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Qartheen Beetle"}
+    ],
+    "image": "Gear/Season 1/QARTHEEN_boots.png"
+  },
+
+  {
+    "name": "QARTHEEN [C]",
+    "color": ["GH", "KW", "HD"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Qartheen Beetle"}
+    ],
+    "image": "Gear/Season 1/QARTHEEN_chest.png"
+  },
+
+  {
+    "name": "QARTHEEN [H]",
+    "color": ["WF", "MP", "IW"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Qartheen Beetle"}
+    ],
+    "image": "Gear/Season 1/QARTHEEN_helmet.png"
+  },
+
+  {
+    "name": "QARTHEEN [P]",
+    "color": ["IW", "SK", "HD"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Qartheen Beetle"}
+    ],
+    "image": "Gear/Season 1/QARTHEEN_pants.png"
+  },
+
+  {
+    "name": "QARTHEEN [R]",
+    "color": ["HD", "CB", "LS"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Qartheen Beetle"}
+    ],
+    "image": "Gear/Season 1/QARTHEEN_ring.png"
+  },
+
+  {
+    "name": "QARTHEEN [W]",
+    "color": ["WW", "BI", "IW"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Qartheen Beetle"}
+    ],
+    "image": "Gear/Season 1/QARTHEEN_weapon.png"
+  },
+
+  {
+    "name": "CORSAIR [B]",
+    "color": ["DG", "LS", "KW"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Abalone"}
+    ],
+    "image": "Gear/Season 1/CORSAIR_boots.png"
+  },
+
+  {
+    "name": "CORSAIR [C]",
+    "color": ["GH", "KW", "CB"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Abalone"}
+    ],
+    "image": "Gear/Season 1/CORSAIR_chest.png"
+  },
+
+  {
+    "name": "CORSAIR [H]",
+    "color": ["WF", "MP", "SK"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Abalone"}
+    ],
+    "image": "Gear/Season 1/CORSAIR_helmet.png"
+  },
+
+  {
+    "name": "CORSAIR [P]",
+    "color": ["IW", "SK", "CB"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Abalone"}
+    ],
+    "image": "Gear/Season 1/CORSAIR_pants.png"
+  },
+
+  {
+    "name": "CORSAIR [R]",
+    "color": ["HD", "CB", "WW"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Abalone"}
+    ],
+    "image": "Gear/Season 1/CORSAIR_ring.png"
+  },
+
+  {
+    "name": "CORSAIR [W]",
+    "color": ["WW", "BI", "SK"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Abalone"}
+    ],
+    "image": "Gear/Season 1/CORSAIR_weapon.png"
+  },
+
+  {
+    "name": "REAVER [B]",
+    "color": ["DG", "LS", "WF"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Driftwood"}
+    ],
+    "image": "Gear/Season 1/REAVER_boots.png"
+  },
+
+  {
+    "name": "REAVER [C]",
+    "color": ["GH", "KW", "DG"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Driftwood"}
+    ],
+    "image": "Gear/Season 1/REAVER_chest.png"
+  },
+
+  {
+    "name": "REAVER [H]",
+    "color": ["WF", "MP", "BI"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Driftwood"}
+    ],
+    "image": "Gear/Season 1/REAVER_helmet.png"
+  },
+
+  {
+    "name": "REAVER [P]",
+    "color": ["IW", "SK", "DG"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Driftwood"}
+    ],
+    "image": "Gear/Season 1/REAVER_pants.png"
+  },
+
+  {
+    "name": "REAVER [R]",
+    "color": ["HD", "CB", "BI"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Driftwood"}
+    ],
+    "image": "Gear/Season 1/REAVER_ring.png"
+  },
+
+  {
+    "name": "REAVER [W]",
+    "color": ["WW", "BI", "LS"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Driftwood"}
+    ],
+    "image": "Gear/Season 1/REAVER_weapon.png"
+  },
+
+  {
+    "name": "FAITH MILITANT [B]",
+    "color": ["DG", "LS", "MP"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Lock of Hair"}
+    ],
+    "image": "Gear/Season 1/FAITH MILITANT_boots.png"
+  },
+
+  {
+    "name": "FAITH MILITANT [C]",
+    "color": ["GH", "KW", "MP"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Lock of Hair"}
+    ],
+    "image": "Gear/Season 1/FAITH MILITANT_chest.png"
+  },
+
+  {
+    "name": "FAITH MILITANT [H]",
+    "color": ["WF", "MP", "KW"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Lock of Hair"}
+    ],
+    "image": "Gear/Season 1/FAITH MILITANT_helmet.png"
+  },
+
+  {
+    "name": "FAITH MILITANT [P]",
+    "color": ["IW", "SK", "KW"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Lock of Hair"}
+    ],
+    "image": "Gear/Season 1/FAITH MILITANT_pants.png"
+  },
+
+  {
+    "name": "FAITH MILITANT [R]",
+    "color": ["HD", "CB", "WW"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Lock of Hair"}
+    ],
+    "image": "Gear/Season 1/FAITH MILITANT_ring.png"
+  },
+
+  {
+    "name": "FAITH MILITANT [W]",
+    "color": ["WW", "BI", "HD"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Lock of Hair"}
+    ],
+    "image": "Gear/Season 1/FAITH MILITANT_weapon.png"
+  },
+
+  {
+    "name": "WILDLING [B]",
+    "color": ["DG", "LS", "GH"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Bone"}
+    ],
+    "image": "Gear/Season 1/WILDLING_boots.png"
+  },
+
+  {
+    "name": "WILDLING [C]",
+    "color": ["GH", "KW", "IW"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Bone"}
+    ],
+    "image": "Gear/Season 1/WILDLING_chest.png"
+  },
+
+  {
+    "name": "WILDLING [H]",
+    "color": ["WF", "MP", "GH"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Bone"}
+    ],
+    "image": "Gear/Season 1/WILDLING_helmet.png"
+  },
+
+  {
+    "name": "WILDLING [P]",
+    "color": ["IW", "SK", "LS"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Bone"}
+    ],
+    "image": "Gear/Season 1/WILDLING_pants.png"
+  },
+
+  {
+    "name": "WILDLING [R]",
+    "color": ["HD", "CB", "IW"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Bone"}
+    ],
+    "image": "Gear/Season 1/WILDLING_ring.png"
+  },
+
+  {
+    "name": "WILDLING [W]",
+    "color": ["WW", "BI", "SK"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Bone"}
+    ],
+    "image": "Gear/Season 1/WILDLING_weapon.png"
+  },
+
+  {
+    "name": "MORMONT [B]",
+    "color": ["DG", "LS", "WF"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Pinecone"}
+    ],
+    "image": "Gear/Season 1/MORMONT_boots.png"
+  },
+
+  {
+    "name": "MORMONT [C]",
+    "color": ["GH", "KW", "WF"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Pinecone"}
+    ],
+    "image": "Gear/Season 1/MORMONT_chest.png"
+  },
+
+  {
+    "name": "MORMONT [H]",
+    "color": ["WF", "MP", "HD"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Pinecone"}
+    ],
+    "image": "Gear/Season 1/MORMONT_helmet.png"
+  },
+
+  {
+    "name": "MORMONT [P]",
+    "color": ["IW", "SK", "CB"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Pinecone"}
+    ],
+    "image": "Gear/Season 1/MORMONT_pants.png"
+  },
+
+  {
+    "name": "MORMONT [R]",
+    "color": ["HD", "CB", "DG"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Pinecone"}
+    ],
+    "image": "Gear/Season 1/MORMONT_ring.png"
+  },
+
+  {
+    "name": "MORMONT [W]",
+    "color": ["WW", "BI", "CB"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Pinecone"}
+    ],
+    "image": "Gear/Season 1/MORMONT_weapon.png"
+  },
+
+  {
+    "name": "BLACKFYRE [B]",
+    "color": ["LS", "HD", "MP"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Blackfyre Penny"}
+    ],
+    "image": "Gear/Season 1/BLACKFYRE_boots.png"
+  },
+
+  {
+    "name": "BLACKFYRE [C]",
+    "color": ["WF", "CB", "BI"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Blackfyre Penny"}
+    ],
+    "image": "Gear/Season 1/BLACKFYRE_chest.png"
+  },
+
+  {
+    "name": "BLACKFYRE [H]",
+    "color": ["HD", "KW", "DG"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Blackfyre Penny"}
+    ],
+    "image": "Gear/Season 1/BLACKFYRE_helmet.png"
+  },
+
+  {
+    "name": "BLACKFYRE [P]",
+    "color": ["WW", "IW", "GH"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Blackfyre Penny"}
+    ],
+    "image": "Gear/Season 1/BLACKFYRE_pants.png"
+  },
+
+  {
+    "name": "BLACKFYRE [R]",
+    "color": ["IW", "BI", "SK"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Blackfyre Penny"}
+    ],
+    "image": "Gear/Season 1/BLACKFYRE_ring.png"
+  },
+
+  {
+    "name": "BLACKFYRE [W]",
+    "color": ["SK", "GH", "IW"],
+    "placeCategories": [
+      {"season": "Season 1", "category": "Blackfyre Penny"}
+    ],
+    "image": "Gear/Season 1/BLACKFYRE_weapon.png"
+  },
+
+  {
+    "name": "BOLTON [B]",
+    "color": ["GH", "KW", "IW"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Horseshoe"}
+    ],
+    "image": "Gear/Season 2/BOLTON_boots.png"
+  },
+
+  {
+    "name": "BOLTON [C]",
+    "color": ["WF", "MP", "GH"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Horseshoe"}
+    ],
+    "image": "Gear/Season 2/BOLTON_chest.png"
+  },
+
+  {
+    "name": "BOLTON [H]",
+    "color": ["IW", "SK", "LS"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Horseshoe"}
+    ],
+    "image": "Gear/Season 2/BOLTON_helmet.png"
+  },
+
+  {
+    "name": "BOLTON [P]",
+    "color": ["HD", "CB", "IW"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Horseshoe"}
+    ],
+    "image": "Gear/Season 2/BOLTON_pants.png"
+  },
+
+  {
+    "name": "BOLTON [R]",
+    "color": ["WW", "BI", "SK"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Horseshoe"}
+    ],
+    "image": "Gear/Season 2/BOLTON_ring.png"
+  },
+
+  {
+    "name": "BOLTON [W]",
+    "color": ["DG", "LS", "GH"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Horseshoe"}
+    ],
+    "image": "Gear/Season 2/BOLTON_weapon.png"
+  },
+
+  {
+    "name": "BRAAVOSI TRADER [B]",
+    "color": ["HD", "DG", "WF"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Cockle Shell"}
+    ],
+    "image": "Gear/Season 2/BRAAVOSI TRADER_boots.png"
+  },
+
+  {
+    "name": "BRAAVOSI TRADER [C]",
+    "color": ["MP", "KW", "BI"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Cockle Shell"}
+    ],
+    "image": "Gear/Season 2/BRAAVOSI TRADER_chest.png"
+  },
+
+  {
+    "name": "BRAAVOSI TRADER [P]",
+    "color": ["WW", "BI", "SK"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Cockle Shell"}
+    ],
+    "image": "Gear/Season 2/BRAAVOSI TRADER_pants.png"
+  },
+
+  {
+    "name": "BRAAVOSI TRADER [R]",
+    "color": ["HD", "CB", "LS"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Cockle Shell"}
+    ],
+    "image": "Gear/Season 2/BRAAVOSI TRADER_ring.png"
+  },
+
+  {
+    "name": "BRAAVOSI TRADER [H]",
+    "color": ["IW", "CB", "WW"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Cockle Shell"}
+    ],
+    "image": "Gear/Season 2/BRAAVOSI TRADER_helmet.png"
+  },
+
+  {
+    "name": "BRAAVOSI TRADER [W]",
+    "color": ["WW", "SK", "IW"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Cockle Shell"}
+    ],
+    "image": "Gear/Season 2/BRAAVOSI TRADER_weapon.png"
+  },
+
+  {
+    "name": "KINGSWOOD [B]",
+    "color": ["WF", "WW", "HD"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Hoof"}
+    ],
+    "image": "Gear/Season 2/KINGSWOOD_boots.png"
+  },
+
+  {
+    "name": "KINGSWOOD [C]",
+    "color": ["HD", "SK", "MP"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Hoof"}
+    ],
+    "image": "Gear/Season 2/KINGSWOOD_chest.png"
+  },
+
+  {
+    "name": "KINGSWOOD [H]",
+    "color": ["MP", "LS", "BI"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Hoof"}
+    ],
+    "image": "Gear/Season 2/KINGSWOOD_helmet.png"
+  },
+
+  {
+    "name": "KINGSWOOD [P]",
+    "color": ["BI", "GH", "KW"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Hoof"}
+    ],
+    "image": "Gear/Season 2/KINGSWOOD_pants.png"
+  },
+
+  {
+    "name": "KINGSWOOD [R]",
+    "color": ["KW", "DG", "CB"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Hoof"}
+    ],
+    "image": "Gear/Season 2/KINGSWOOD_ring.png"
+  },
+
+  {
+    "name": "KINGSWOOD [W]",
+    "color": ["CB", "WW", "WF"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Hoof"}
+    ],
+    "image": "Gear/Season 2/KINGSWOOD_weapon.png"
+  },
+
+  {
+    "name": "DRAGON KNIGHT [B]",
+    "color": ["BI", "IW", "WW"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Dragon Spine"}
+    ],
+    "image": "Gear/Season 2/DRAGON KNIGHT_boots.png"
+  },
+
+  {
+    "name": "DRAGON KNIGHT [C]",
+    "color": ["WW", "DG", "IW"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Dragon Spine"}
+    ],
+    "image": "Gear/Season 2/DRAGON KNIGHT_chest.png"
+  },
+
+  {
+    "name": "DRAGON KNIGHT [H]",
+    "color": ["MP", "GH", "DG"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Dragon Spine"}
+    ],
+    "image": "Gear/Season 2/DRAGON KNIGHT_helmet.png"
+  },
+
+  {
+    "name": "DRAGON KNIGHT [P]",
+    "color": ["CB", "GH", "SK"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Dragon Spine"}
+    ],
+    "image": "Gear/Season 2/DRAGON KNIGHT_pants.png"
+  },
+
+  {
+    "name": "DRAGON KNIGHT [R]",
+    "color": ["WF", "SK", "LS"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Dragon Spine"}
+    ],
+    "image": "Gear/Season 2/DRAGON KNIGHT_ring.png"
+  },
+
+  {
+    "name": "DRAGON KNIGHT [W]",
+    "color": ["KW", "LS", "HD"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Dragon Spine"}
+    ],
+    "image": "Gear/Season 2/DRAGON KNIGHT_weapon.png"
+  },
+
+  {
+    "name": "DORNISH [B]",
+    "color": ["SK", "HD", "GH"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Horsehair Tassel"}
+    ],
+    "image": "Gear/Season 2/DORNISH_boots.png"
+  },
+
+  {
+    "name": "DORNISH [C]",
+    "color": ["HD", "MP", "LS"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Horsehair Tassel"}
+    ],
+    "image": "Gear/Season 2/DORNISH_chest.png"
+  },
+
+  {
+    "name": "DORNISH [H]",
+    "color": ["GH", "BI", "MP"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Horsehair Tassel"}
+    ],
+    "image": "Gear/Season 2/DORNISH_helmet.png"
+  },
+
+  {
+    "name": "DORNISH [P]",
+    "color": ["WW", "CB", "DG"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Horsehair Tassel"}
+    ],
+    "image": "Gear/Season 2/DORNISH_pants.png"
+  },
+
+  {
+    "name": "DORNISH [R]",
+    "color": ["CB", "WF", "IW"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Horsehair Tassel"}
+    ],
+    "image": "Gear/Season 2/DORNISH_ring.png"
+  },
+
+  {
+    "name": "DORNISH [W]",
+    "color": ["DG", "KW", "HD"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Horsehair Tassel"}
+    ],
+    "image": "Gear/Season 2/DORNISH_weapon.png"
+  },
+
+  {
+    "name": "SIEGE ENGINEER [B]",
+    "color": ["WF", "DG", "LS"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Bucket of Tar"}
+    ],
+    "image": "Gear/Season 2/SIEGE ENGINEER_boots.png"
+  },
+
+  {
+    "name": "SIEGE ENGINEER [C]",
+    "color": ["DG", "GH", "KW"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Bucket of Tar"}
+    ],
+    "image": "Gear/Season 2/SIEGE ENGINEER_chest.png"
+  },
+
+  {
+    "name": "SIEGE ENGINEER [H]",
+    "color": ["BI", "WF", "MP"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Bucket of Tar"}
+    ],
+    "image": "Gear/Season 2/SIEGE ENGINEER_helmet.png"
+  },
+
+  {
+    "name": "SIEGE ENGINEER [P]",
+    "color": ["DG", "IW", "BI"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Bucket of Tar"}
+    ],
+    "image": "Gear/Season 2/SIEGE ENGINEER_pants.png"
+  },
+
+  {
+    "name": "SIEGE ENGINEER [R]",
+    "color": ["GH", "HD", "CB"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Bucket of Tar"}
+    ],
+    "image": "Gear/Season 2/SIEGE ENGINEER_ring.png"
+  },
+
+  {
+    "name": "SIEGE ENGINEER [W]",
+    "color": ["LS", "WW", "SK"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Bucket of Tar"}
+    ],
+    "image": "Gear/Season 2/SIEGE ENGINEER_weapon.png"
+  },
+
+  {
+    "name": "WHENT [B]",
+    "color": ["SK", "MP", "HD"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Golden Thread"}
+    ],
+    "image": "Gear/Season 2/WHENT_boots.png"
+  },
+
+  {
+    "name": "WHENT [C]",
+    "color": ["MP", "SK", "BI"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Golden Thread"}
+    ],
+    "image": "Gear/Season 2/WHENT_chest.png"
+  },
+
+  {
+    "name": "WHENT [H]",
+    "color": ["BI", "KW", "WF"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Golden Thread"}
+    ],
+    "image": "Gear/Season 2/WHENT_helmet.png"
+  },
+
+  {
+    "name": "WHENT [P]",
+    "color": ["DG", "WW", "LS"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Golden Thread"}
+    ],
+    "image": "Gear/Season 2/WHENT_pants.png"
+  },
+
+  {
+    "name": "WHENT [R]",
+    "color": ["CB", "IW", "KW"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Golden Thread"}
+    ],
+    "image": "Gear/Season 2/WHENT_ring.png"
+  },
+
+  {
+    "name": "WHENT [W]",
+    "color": ["IW", "CB", "MP"],
+    "placeCategories": [
+      {"season": "Season 2", "category": "Golden Thread"}
+    ],
+    "image": "Gear/Season 2/WHENT_weapon.png"
+  },
+
+  {
+    "name": "NIGHT'S WATCH RANGER [B]",
+    "color": ["KW", "MP", "WW"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Black Leather"}
+    ],
+    "image": "Gear/Season 3/NIGHT'S WATCH RANGER_boots.png"
+  },
+
+  {
+    "name": "NIGHT'S WATCH RANGER [C]",
+    "color": ["HD", "CB", "SK"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Black Leather"}
+    ],
+    "image": "Gear/Season 3/NIGHT'S WATCH RANGER_chest.png"
+  },
+
+  {
+    "name": "NIGHT'S WATCH RANGER [H]",
+    "color": ["HD", "WW", "CB"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Black Leather"}
+    ],
+    "image": "Gear/Season 3/NIGHT'S WATCH RANGER_helmet.png"
+  },
+
+  {
+    "name": "NIGHT'S WATCH RANGER [P]",
+    "color": ["LS", "BI", "GH"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Black Leather"}
+    ],
+    "image": "Gear/Season 3/NIGHT'S WATCH RANGER_pants.png"
+  },
+
+  {
+    "name": "NIGHT'S WATCH RANGER [R]",
+    "color": ["SK", "BI", "WF"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Black Leather"}
+    ],
+    "image": "Gear/Season 3/NIGHT'S WATCH RANGER_ring.png"
+  },
+
+  {
+    "name": "NIGHT'S WATCH RANGER [W]",
+    "color": ["IW", "KW", "DG"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Black Leather"}
+    ],
+    "image": "Gear/Season 3/NIGHT'S WATCH RANGER_weapon.png"
+  },
+  {
+    "name": "BATTLE-SCARRED [B]",
+    "color": ["MP", "WF", "WW"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Battered Ringmail"}
+    ],
+    "image": "Gear/Season 3/BATTLE-SCARRED_boots.png"
+  },
+  {
+    "name": "BATTLE-SCARRED [C]",
+    "color": ["IW", "GH", "LS"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Battered Ringmail"}
+    ],
+    "image": "Gear/Season 3/BATTLE-SCARRED_chest.png"
+  },
+  {
+    "name": "BATTLE-SCARRED [H]",
+    "color": ["WF", "IW", "LS"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Battered Ringmail"}
+    ],
+    "image": "Gear/Season 3/BATTLE-SCARRED_helmet.png"
+  },
+  {
+    "name": "BATTLE-SCARRED [P]",
+    "color": ["DG", "CB", "BI"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Battered Ringmail"}
+    ],
+    "image": "Gear/Season 3/BATTLE-SCARRED_pants.png"
+  },
+  {
+    "name": "BATTLE-SCARRED [R]",
+    "color": ["DG", "SK", "GH"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Battered Ringmail"}
+    ],
+    "image": "Gear/Season 3/BATTLE-SCARRED_ring.png"
+  },
+  {
+    "name": "BATTLE-SCARRED [W]",
+    "color": ["WW", "KW", "HD"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Battered Ringmail"}
+    ],
+    "image": "Gear/Season 3/BATTLE-SCARRED_weapon.png"
+  },
+  {
+    "name": "FALCON KNIGHT [B]",
+    "color": ["MP", "KW", "WF"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Silvered Steel"}
+    ],
+    "image": "Gear/Season 3/FALCON KNIGHT_boots.png"
+  },
+  {
+    "name": "FALCON KNIGHT [C]",
+    "color": ["BI", "CB", "WW"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Silvered Steel"}
+    ],
+    "image": "Gear/Season 3/FALCON KNIGHT_chest.png"
+  },
+  {
+    "name": "FALCON KNIGHT [H]",
+    "color": ["CB", "BI", "IW"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Silvered Steel"}
+    ],
+    "image": "Gear/Season 3/FALCON KNIGHT_helmet.png"
+  },
+  {
+    "name": "FALCON KNIGHT [P]",
+    "color": ["SK", "MP", "DG"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Silvered Steel"}
+    ],
+    "image": "Gear/Season 3/FALCON KNIGHT_pants.png"
+  },
+  {
+    "name": "FALCON KNIGHT [R]",
+    "color": ["MP", "SK", "GH"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Silvered Steel"}
+    ],
+    "image": "Gear/Season 3/FALCON KNIGHT_ring.png"
+  },
+  {
+    "name": "FALCON KNIGHT [W]",
+    "color": ["WF", "HD", "LS"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Silvered Steel"}
+    ],
+    "image": "Gear/Season 3/FALCON KNIGHT_weapon.png"
+  },
+  {
+    "name": "STARK RELICS [B]",
+    "color": ["HD", "KW", "WF"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Ancient Leather"}
+    ],
+    "image": "Gear/Season 3/STARK RELICS_boots.png"
+  },
+  {
+    "name": "STARK RELICS [C]",
+    "color": ["WW", "CB", "IW"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Ancient Leather"}
+    ],
+    "image": "Gear/Season 3/STARK RELICS_chest.png"
+  },
+  {
+    "name": "STARK RELICS [H]",
+    "color": ["CB", "KW", "BI"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Ancient Leather"}
+    ],
+    "image": "Gear/Season 3/STARK RELICS_helmet.png"
+  },
+  {
+    "name": "STARK RELICS [P]",
+    "color": ["IW", "GH", "DG"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Ancient Leather"}
+    ],
+    "image": "Gear/Season 3/STARK RELICS_pants.png"
+  },
+  {
+    "name": "STARK RELICS [R]",
+    "color": ["DG", "LS", "SK"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Ancient Leather"}
+    ],
+    "image": "Gear/Season 3/STARK RELICS_ring.png"
+  },
+  {
+    "name": "STARK RELICS [W]",
+    "color": ["GH", "MP", "HD"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Ancient Leather"}
+    ],
+    "image": "Gear/Season 3/STARK RELICS_weapon.png"
+  },
+  {
+    "name": "KINGSGUARD [B]",
+    "color": ["SK", "KW", "WW"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Kingsguard Emblems"}
+    ],
+    "image": "Gear/Season 3/KINGSGUARD_boots.png"
+  },
+  {
+    "name": "KINGSGUARD [C]",
+    "color": ["HD", "BI", "LS"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Kingsguard Emblems"}
+    ],
+    "image": "Gear/Season 3/KINGSGUARD_chest.png"
+  },
+  {
+    "name": "KINGSGUARD [H]",
+    "color": ["WF", "WW", "IW"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Kingsguard Emblems"}
+    ],
+    "image": "Gear/Season 3/KINGSGUARD_helmet.png"
+  },
+  {
+    "name": "KINGSGUARD [P]",
+    "color": ["DG", "GH", "LS"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Kingsguard Emblems"}
+    ],
+    "image": "Gear/Season 3/KINGSGUARD_pants.png"
+  },
+  {
+    "name": "KINGSGUARD [R]",
+    "color": ["MP", "CB", "BI"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Kingsguard Emblems"}
+    ],
+    "image": "Gear/Season 3/KINGSGUARD_ring.png"
+  },
+  {
+    "name": "KINGSGUARD [W]",
+    "color": ["SK", "KW", "HD"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Kingsguard Emblems"}
+    ],
+    "image": "Gear/Season 3/KINGSGUARD_weapon.png"
+  },
+  {
+    "name": "CONQUEROR'S REGALIA [B]",
+    "color": ["WF", "WW", "IW"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Conqueror's Shagreen"}
+    ],
+    "image": "Gear/Season 3/CONQUEROR'S REGALIA_boots.png"
+  },
+  {
+    "name": "CONQUEROR'S REGALIA [C]",
+    "color": ["GH", "DG", "LS"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Conqueror's Shagreen"}
+    ],
+    "image": "Gear/Season 3/CONQUEROR'S REGALIA_chest.png"
+  },
+  {
+    "name": "CONQUEROR'S REGALIA [H]",
+    "color": ["CB", "HD", "BI"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Conqueror's Shagreen"}
+    ],
+    "image": "Gear/Season 3/CONQUEROR'S REGALIA_helmet.png"
+  },
+  {
+    "name": "CONQUEROR'S REGALIA [P]",
+    "color": ["KW", "SK", "MP"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Conqueror's Shagreen"}
+    ],
+    "image": "Gear/Season 3/CONQUEROR'S REGALIA_pants.png"
+  },
+  {
+    "name": "CONQUEROR'S REGALIA [R]",
+    "color": ["WF", "LS", "DG"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Conqueror's Shagreen"}
+    ],
+    "image": "Gear/Season 3/CONQUEROR'S REGALIA_ring.png"
+  },
+  {
+    "name": "CONQUEROR'S REGALIA [W]",
+    "color": ["IW", "WW", "GH"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Conqueror's Shagreen"}
+    ],
+    "image": "Gear/Season 3/CONQUEROR'S REGALIA_weapon.png"
+  },
+  {
+    "name": "TYRELL HIGHBORN [B]",
+    "color": ["MP", "KW", "CB"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Floral Silk"}
+    ],
+    "image": "Gear/Season 3/TYRELL HIGHBORN_boots.png"
+  },
+  {
+    "name": "TYRELL HIGHBORN [C]",
+    "color": ["BI", "HD", "SK"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Floral Silk"}
+    ],
+    "image": "Gear/Season 3/TYRELL HIGHBORN_chest.png"
+  },
+  {
+    "name": "TYRELL HIGHBORN [H]",
+    "color": ["LS", "WF", "IW"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Floral Silk"}
+    ],
+    "image": "Gear/Season 3/TYRELL HIGHBORN_helmet.png"
+  },
+  {
+    "name": "TYRELL HIGHBORN [P]",
+    "color": ["CB", "DG", "GH"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Floral Silk"}
+    ],
+    "image": "Gear/Season 3/TYRELL HIGHBORN_pants.png"
+  },
+  {
+    "name": "TYRELL HIGHBORN [R]",
+    "color": ["HD", "MP", "SK"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Floral Silk"}
+    ],
+    "image": "Gear/Season 3/TYRELL HIGHBORN_ring.png"
+  },
+  {
+    "name": "TYRELL HIGHBORN [W]",
+    "color": ["KW", "BI", "WW"],
+    "placeCategories": [
+      {"season": "Season 3", "category": "Floral Silk"}
+    ],
+    "image": "Gear/Season 3/TYRELL HIGHBORN_weapon.png"
+  },
+  {
+    "name": "BAELISH [B]",
+    "color": ["WF", "MP", "LS"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Heavy Brocade"}
+    ],
+    "image": "Gear/Season 4/BAELISH_boots.png"
+  },
+  {
+    "name": "BAELISH [C]",
+    "color": ["WW", "SK", "GH"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Heavy Brocade"}
+    ],
+    "image": "Gear/Season 4/BAELISH_chest.png"
+  },
+  {
+    "name": "BAELISH [H]",
+    "color": ["IW", "KW", "DG"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Heavy Brocade"}
+    ],
+    "image": "Gear/Season 4/BAELISH_helmet.png"
+  },
+  {
+    "name": "BAELISH [P]",
+    "color": ["LS", "CB", "WF"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Heavy Brocade"}
+    ],
+    "image": "Gear/Season 4/BAELISH_pants.png"
+  },
+  {
+    "name": "BAELISH [R]",
+    "color": ["GH", "HD", "WW"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Heavy Brocade"}
+    ],
+    "image": "Gear/Season 4/BAELISH_ring.png"
+  },
+  {
+    "name": "BAELISH [W]",
+    "color": ["DG", "BI", "IW"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Heavy Brocade"}
+    ],
+    "image": "Gear/Season 4/BAELISH_weapon.png"
+  },
+  {
+    "name": "THORNED BRIDE [B]",
+    "color": ["MP", "KW", "CB"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Cloth of Silver"}
+    ],
+    "image": "Gear/Season 4/THORNED BRIDE_boots.png"
+  },
+  {
+    "name": "THORNED BRIDE [C]",
+    "color": ["HD", "SK", "BI"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Cloth of Silver"}
+    ],
+    "image": "Gear/Season 4/THORNED BRIDE_chest.png"
+  },
+  {
+    "name": "THORNED BRIDE [H]",
+    "color": ["WW", "WF", "DG"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Cloth of Silver"}
+    ],
+    "image": "Gear/Season 4/THORNED BRIDE_helmet.png"
+  },
+  {
+    "name": "THORNED BRIDE [P]",
+    "color": ["LS", "IW", "MP"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Cloth of Silver"}
+    ],
+    "image": "Gear/Season 4/THORNED BRIDE_pants.png"
+  },
+  {
+    "name": "THORNED BRIDE [R]",
+    "color": ["KW", "HD", "BI"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Cloth of Silver"}
+    ],
+    "image": "Gear/Season 4/THORNED BRIDE_ring.png"
+  },
+  {
+    "name": "THORNED BRIDE [W]",
+    "color": ["GH", "CB", "SK"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Cloth of Silver"}
+    ],
+    "image": "Gear/Season 4/THORNED BRIDE_weapon.png"
+  },
+  {
+    "name": "FACELESS MEN VESTMENTS [B]",
+    "color": ["LS", "WF", "WW"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Composite Cloth"}
+    ],
+    "image": "Gear/Season 4/FACELESS MEN VESTMENTS_boots.png"
+  },
+  {
+    "name": "FACELESS MEN VESTMENTS [C]",
+    "color": ["GH", "DG", "IW"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Composite Cloth"}
+    ],
+    "image": "Gear/Season 4/FACELESS MEN VESTMENTS_chest.png"
+  },
+  {
+    "name": "FACELESS MEN VESTMENTS [H]",
+    "color": ["MP", "KW", "SK"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Composite Cloth"}
+    ],
+    "image": "Gear/Season 4/FACELESS MEN VESTMENTS_helmet.png"
+  },
+  {
+    "name": "FACELESS MEN VESTMENTS [P]",
+    "color": ["HD", "CB", "BI"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Composite Cloth"}
+    ],
+    "image": "Gear/Season 4/FACELESS MEN VESTMENTS_pants.png"
+  },
+  {
+    "name": "FACELESS MEN VESTMENTS [R]",
+    "color": ["DG", "LS", "WF"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Composite Cloth"}
+    ],
+    "image": "Gear/Season 4/FACELESS MEN VESTMENTS_ring.png"
+  },
+  {
+    "name": "FACELESS MEN VESTMENTS [W]",
+    "color": ["GH", "IW", "WW"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Composite Cloth"}
+    ],
+    "image": "Gear/Season 4/FACELESS MEN VESTMENTS_weapon.png"
+  },
+  {
+    "name": "DRAGONKEEPER [B]",
+    "color": ["GH", "MP", "WW"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Black Scalemail"}
+    ],
+    "image": "Gear/Season 4/DRAGONKEEPER_boots.png"
+  },
+  {
+    "name": "DRAGONKEEPER [C]",
+    "color": ["CB", "SK", "KW"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Black Scalemail"}
+    ],
+    "image": "Gear/Season 4/DRAGONKEEPER_chest.png"
+  },
+  {
+    "name": "DRAGONKEEPER [H]",
+    "color": ["HD", "IW", "KW"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Black Scalemail"}
+    ],
+    "image": "Gear/Season 4/DRAGONKEEPER_helmet.png"
+  },
+  {
+    "name": "DRAGONKEEPER [P]",
+    "color": ["SK", "BI", "CB"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Black Scalemail"}
+    ],
+    "image": "Gear/Season 4/DRAGONKEEPER_pants.png"
+  },
+  {
+    "name": "DRAGONKEEPER [R]",
+    "color": ["BI", "HD", "MP"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Black Scalemail"}
+    ],
+    "image": "Gear/Season 4/DRAGONKEEPER_ring.png"
+  },
+  {
+    "name": "DRAGONKEEPER [W]",
+    "color": ["IW", "WF", "DG"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Black Scalemail"}
+    ],
+    "image": "Gear/Season 4/DRAGONKEEPER_weapon.png"
+  },
+  {
+    "name": "BROTHERGOOD ARCHER [B]",
+    "color": ["LS", "SK", "BI"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Leather & Fletchings"}
+    ],
+    "image": "Gear/Season 4/BROTHERGOOD ARCHER_boots.png"
+  },
+  {
+    "name": "BROTHERGOOD ARCHER [C]",
+    "color": ["MP", "WW", "KW"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Leather & Fletchings"}
+    ],
+    "image": "Gear/Season 4/BROTHERGOOD ARCHER_chest.png"
+  },
+  {
+    "name": "BROTHERGOOD ARCHER [H]",
+    "color": ["LS", "CB", "HD"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Leather & Fletchings"}
+    ],
+    "image": "Gear/Season 4/BROTHERGOOD ARCHER_helmet.png"
+  },
+  {
+    "name": "BROTHERGOOD ARCHER [P]",
+    "color": ["GH", "WF", "DG"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Leather & Fletchings"}
+    ],
+    "image": "Gear/Season 4/BROTHERGOOD ARCHER_pants.png"
+  },
+  {
+    "name": "BROTHERGOOD ARCHER [R]",
+    "color": ["IW", "BI", "WW"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Leather & Fletchings"}
+    ],
+    "image": "Gear/Season 4/BROTHERGOOD ARCHER_ring.png"
+  },
+  {
+    "name": "BROTHERGOOD ARCHER [W]",
+    "color": ["LS", "DG", "SK"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Leather & Fletchings"}
+    ],
+    "image": "Gear/Season 4/BROTHERGOOD ARCHER_weapon.png"
+  },
+  {
+    "name": "BLACKWATER  DEFENDER [B]",
+    "color": ["KW", "WF", "HD"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Gilded Plates"}
+    ],
+    "image": "Gear/Season 4/BLACKWATER  DEFENDER_boots.png"
+  },
+  {
+    "name": "BLACKWATER  DEFENDER [C]",
+    "color": ["GH", "WW", "SK"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Gilded Plates"}
+    ],
+    "image": "Gear/Season 4/BLACKWATER  DEFENDER_chest.png"
+  },
+  {
+    "name": "BLACKWATER  DEFENDER [H]",
+    "color": ["WF", "IW", "CB"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Gilded Plates"}
+    ],
+    "image": "Gear/Season 4/BLACKWATER  DEFENDER_helmet.png"
+  },
+  {
+    "name": "BLACKWATER  DEFENDER [P]",
+    "color": ["HD", "LS", "MP"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Gilded Plates"}
+    ],
+    "image": "Gear/Season 4/BLACKWATER  DEFENDER_pants.png"
+  },
+  {
+    "name": "BLACKWATER  DEFENDER [R]",
+    "color": ["CB", "GH", "BI"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Gilded Plates"}
+    ],
+    "image": "Gear/Season 4/BLACKWATER  DEFENDER_ring.png"
+  },
+  {
+    "name": "BLACKWATER  DEFENDER [W]",
+    "color": ["MP", "DG", "KW"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Gilded Plates"}
+    ],
+    "image": "Gear/Season 4/BLACKWATER  DEFENDER_weapon.png"
+  },
+  {
+    "name": "USURPER [B]",
+    "color": ["WF", "KW", "LS"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Stag Hide"}
+    ],
+    "image": "Gear/Season 4/USURPER_boots.png"
+  },
+  {
+    "name": "USURPER [C]",
+    "color": ["WW", "CB", "DG"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Stag Hide"}
+    ],
+    "image": "Gear/Season 4/USURPER_chest.png"
+  },
+  {
+    "name": "USURPER [H]",
+    "color": ["IW", "MP", "GH"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Stag Hide"}
+    ],
+    "image": "Gear/Season 4/USURPER_helmet.png"
+  },
+  {
+    "name": "USURPER [P]",
+    "color": ["DG", "SK", "IW"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Stag Hide"}
+    ],
+    "image": "Gear/Season 4/USURPER_pants.png"
+  },
+  {
+    "name": "USURPER [R]",
+    "color": ["GH", "HD", "WF"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Stag Hide"}
+    ],
+    "image": "Gear/Season 4/USURPER_ring.png"
+  },
+  {
+    "name": "USURPER [W]",
+    "color": ["LS", "BI", "WW"],
+    "placeCategories": [
+      {"season": "Season 4", "category": "Stag Hide"}
+    ],
+    "image": "Gear/Season 4/USURPER_weapon.png"
+  },
+  {
+    "name": "DORNISH ROYAL [B]",
+    "color": ["MP", "KW", "SK"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Royal Samite"}
+    ],
+    "image": "Gear/Season 5/DORNISH ROYAL_boots.png"
+  },
+  {
+    "name": "DORNISH ROYAL [C]",
+    "color": ["CB", "BI", "HD"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Royal Samite"}
+    ],
+    "image": "Gear/Season 5/DORNISH ROYAL_chest.png"
+  },
+  {
+    "name": "DORNISH ROYAL [H]",
+    "color": ["GH", "DG", "LS"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Royal Samite"}
+    ],
+    "image": "Gear/Season 5/DORNISH ROYAL_helmet.png"
+  },
+  {
+    "name": "DORNISH ROYAL [P]",
+    "color": ["MP", "IW", "KW"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Royal Samite"}
+    ],
+    "image": "Gear/Season 5/DORNISH ROYAL_pants.png"
+  },
+  {
+    "name": "DORNISH ROYAL [R]",
+    "color": ["HD", "SK", "WW"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Royal Samite"}
+    ],
+    "image": "Gear/Season 5/DORNISH ROYAL_ring.png"
+  },
+  {
+    "name": "DORNISH ROYAL [W]",
+    "color": ["WF", "CB", "BI"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Royal Samite"}
+    ],
+    "image": "Gear/Season 5/DORNISH ROYAL_weapon.png"
+  },
+  {
+    "name": "LOST RANGER [B]",
+    "color": ["LS", "DG", "BI"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Stitched Leather"}
+    ],
+    "image": "Gear/Season 5/LOST RANGER_boots.png"
+  },
+  {
+    "name": "LOST RANGER [C]",
+    "color": ["WW", "CB", "MP"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Stitched Leather"}
+    ],
+    "image": "Gear/Season 5/LOST RANGER_chest.png"
+  },
+  {
+    "name": "LOST RANGER [H]",
+    "color": ["GH", "SK", "KW"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Stitched Leather"}
+    ],
+    "image": "Gear/Season 5/LOST RANGER_helmet.png"
+  },
+  {
+    "name": "LOST RANGER [P]",
+    "color": ["IW", "WF", "SK"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Stitched Leather"}
+    ],
+    "image": "Gear/Season 5/LOST RANGER_pants.png"
+  },
+  {
+    "name": "LOST RANGER [R]",
+    "color": ["WF", "MP", "HD"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Stitched Leather"}
+    ],
+    "image": "Gear/Season 5/LOST RANGER_ring.png"
+  },
+  {
+    "name": "LOST RANGER [W]",
+    "color": ["WW", "DG", "IW"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Stitched Leather"}
+    ],
+    "image": "Gear/Season 5/LOST RANGER_weapon.png"
+  },
+  {
+    "name": "CROW SLAYER [B]",
+    "color": ["GH", "BI", "HD"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Scavenged Bone"}
+    ],
+    "image": "Gear/Season 5/CROW SLAYER_boots.png"
+  },
+  {
+    "name": "CROW SLAYER [C]",
+    "color": ["KW", "CB", "LS"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Scavenged Bone"}
+    ],
+    "image": "Gear/Season 5/CROW SLAYER_chest.png"
+  },
+  {
+    "name": "CROW SLAYER [H]",
+    "color": ["BI", "WW", "SK"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Scavenged Bone"}
+    ],
+    "image": "Gear/Season 5/CROW SLAYER_helmet.png"
+  },
+  {
+    "name": "CROW SLAYER [P]",
+    "color": ["LS", "MP", "GH"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Scavenged Bone"}
+    ],
+    "image": "Gear/Season 5/CROW SLAYER_pants.png"
+  },
+  {
+    "name": "CROW SLAYER [R]",
+    "color": ["KW", "CB", "DG"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Scavenged Bone"}
+    ],
+    "image": "Gear/Season 5/CROW SLAYER_ring.png"
+  },
+  {
+    "name": "CROW SLAYER [W]",
+    "color": ["IW", "HD", "WF"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Scavenged Bone"}
+    ],
+    "image": "Gear/Season 5/CROW SLAYER_weapon.png"
+  },
+  {
+    "name": "KEEP ARCHITECT [B]",
+    "color": ["BI", "WW", "CB"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Red Clay Tiles"}
+    ],
+    "image": "Gear/Season 5/KEEP ARCHITECT_boots.png"
+  },
+  {
+    "name": "KEEP ARCHITECT [C]",
+    "color": ["WW", "HD", "SK"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Red Clay Tiles"}
+    ],
+    "image": "Gear/Season 5/KEEP ARCHITECT_chest.png"
+  },
+  {
+    "name": "KEEP ARCHITECT [H]",
+    "color": ["IW", "MP", "LS"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Red Clay Tiles"}
+    ],
+    "image": "Gear/Season 5/KEEP ARCHITECT_helmet.png"
+  },
+  {
+    "name": "KEEP ARCHITECT [P]",
+    "color": ["DG", "KW", "IW"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Red Clay Tiles"}
+    ],
+    "image": "Gear/Season 5/KEEP ARCHITECT_pants.png"
+  },
+  {
+    "name": "KEEP ARCHITECT [R]",
+    "color": ["SK", "WF", "BI"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Red Clay Tiles"}
+    ],
+    "image": "Gear/Season 5/KEEP ARCHITECT_ring.png"
+  },
+  {
+    "name": "KEEP ARCHITECT [W]",
+    "color": ["LS", "GH", "DG"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Red Clay Tiles"}
+    ],
+    "image": "Gear/Season 5/KEEP ARCHITECT_weapon.png"
+  },
+  {
+    "name": "WAR HOUND [B]",
+    "color": ["KW", "HD", "MP"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Pilfered Boots"}
+    ],
+    "image": "Gear/Season 5/WAR HOUND_boots.png"
+  },
+  {
+    "name": "WAR HOUND [C]",
+    "color": ["CB", "WF", "MP"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Pilfered Boots"}
+    ],
+    "image": "Gear/Season 5/WAR HOUND_chest.png"
+  },
+  {
+    "name": "WAR HOUND [H]",
+    "color": ["KW", "GH", "CB"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Pilfered Boots"}
+    ],
+    "image": "Gear/Season 5/WAR HOUND_helmet.png"
+  },
+  {
+    "name": "WAR HOUND [P]",
+    "color": ["WW", "IW", "SK"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Pilfered Boots"}
+    ],
+    "image": "Gear/Season 5/WAR HOUND_pants.png"
+  },
+  {
+    "name": "WAR HOUND [R]",
+    "color": ["GH", "BI", "HD"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Pilfered Boots"}
+    ],
+    "image": "Gear/Season 5/WAR HOUND_ring.png"
+  },
+  {
+    "name": "WAR HOUND [W]",
+    "color": ["DG", "LS", "WF"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Pilfered Boots"}
+    ],
+    "image": "Gear/Season 5/WAR HOUND_weapon.png"
+  },
+  {
+    "name": "TOURNEY QUEEN [B]",
+    "color": ["BI", "SK", "WW"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Green Chiffon"}
+    ],
+    "image": "Gear/Season 5/TOURNEY QUEEN_boots.png"
+  },
+  {
+    "name": "TOURNEY QUEEN [C]",
+    "color": ["IW", "DG", "LS"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Green Chiffon"}
+    ],
+    "image": "Gear/Season 5/TOURNEY QUEEN_chest.png"
+  },
+  {
+    "name": "TOURNEY QUEEN [H]",
+    "color": ["HD", "CB", "KW"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Green Chiffon"}
+    ],
+    "image": "Gear/Season 5/TOURNEY QUEEN_helmet.png"
+  },
+  {
+    "name": "TOURNEY QUEEN [P]",
+    "color": ["LS", "MP", "GH"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Green Chiffon"}
+    ],
+    "image": "Gear/Season 5/TOURNEY QUEEN_pants.png"
+  },
+  {
+    "name": "TOURNEY QUEEN [R]",
+    "color": ["WF", "WW", "BI"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Green Chiffon"}
+    ],
+    "image": "Gear/Season 5/TOURNEY QUEEN_ring.png"
+  },
+  {
+    "name": "TOURNEY QUEEN [W]",
+    "color": ["SK", "IW", "DG"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Green Chiffon"}
+    ],
+    "image": "Gear/Season 5/TOURNEY QUEEN_weapon.png"
+  },
+  {
+    "name": "FIERY ZEALOT [B]",
+    "color": ["CB", "GH", "HD"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Crimson Taffeta"}
+    ],
+    "image": "Gear/Season 5/FIERY ZEALOT_boots.png"
+  },
+  {
+    "name": "FIERY ZEALOT [C]",
+    "color": ["KW", "WF", "MP"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Crimson Taffeta"}
+    ],
+    "image": "Gear/Season 5/FIERY ZEALOT_chest.png"
+  },
+  {
+    "name": "FIERY ZEALOT [H]",
+    "color": ["WW", "BI", "SK"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Crimson Taffeta"}
+    ],
+    "image": "Gear/Season 5/FIERY ZEALOT_helmet.png"
+  },
+  {
+    "name": "FIERY ZEALOT [P]",
+    "color": ["DG", "LS", "IW"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Crimson Taffeta"}
+    ],
+    "image": "Gear/Season 5/FIERY ZEALOT_pants.png"
+  },
+  {
+    "name": "FIERY ZEALOT [R]",
+    "color": ["GH", "HD", "WF"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Crimson Taffeta"}
+    ],
+    "image": "Gear/Season 5/FIERY ZEALOT_ring.png"
+  },
+  {
+    "name": "FIERY ZEALOT [W]",
+    "color": ["MP", "KW", "CB"],
+    "placeCategories": [
+      {"season": "Season 5", "category": "Crimson Taffeta"}
+    ],
+    "image": "Gear/Season 5/FIERY ZEALOT_weapon.png"
+  },
+  {
+    "name": "LION QUEEN [B]",
+    "color": ["MP", "GH", "HD"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Royal Velvet"}
+    ],
+    "image": "Gear/Season 6/LION QUEEN_boots.png"
+  },
+  {
+    "name": "LION QUEEN [C]",
+    "color": ["CB", "WF", "SK"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Royal Velvet"}
+    ],
+    "image": "Gear/Season 6/LION QUEEN_chest.png"
+  },
+  {
+    "name": "LION QUEEN [H]",
+    "color": ["KW", "BI", "IW"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Royal Velvet"}
+    ],
+    "image": "Gear/Season 6/LION QUEEN_helmet.png"
+  },
+  {
+    "name": "LION QUEEN [P]",
+    "color": ["WW", "LS", "WF"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Royal Velvet"}
+    ],
+    "image": "Gear/Season 6/LION QUEEN_pants.png"
+  },
+  {
+    "name": "LION QUEEN [R]",
+    "color": ["DG", "HD", "MP"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Royal Velvet"}
+    ],
+    "image": "Gear/Season 6/LION QUEEN_ring.png"
+  },
+  {
+    "name": "LION QUEEN [W]",
+    "color": ["GH", "KW", "CB"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Royal Velvet"}
+    ],
+    "image": "Gear/Season 6/LION QUEEN_weapon.png"
+  },
+  {
+    "name": "DROWNED DISCIPLE [B]",
+    "color": ["SK", "BI", "IW"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Seawater Cloth"}
+    ],
+    "image": "Gear/Season 6/DROWNED DISCIPLE_boots.png"
+  },
+  {
+    "name": "DROWNED DISCIPLE [C]",
+    "color": ["WW", "LS", "DG"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Seawater Cloth"}
+    ],
+    "image": "Gear/Season 6/DROWNED DISCIPLE_chest.png"
+  },
+  {
+    "name": "DROWNED DISCIPLE [H]",
+    "color": ["HD", "MP", "GH"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Seawater Cloth"}
+    ],
+    "image": "Gear/Season 6/DROWNED DISCIPLE_helmet.png"
+  },
+  {
+    "name": "DROWNED DISCIPLE [P]",
+    "color": ["IW", "CB", "KW"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Seawater Cloth"}
+    ],
+    "image": "Gear/Season 6/DROWNED DISCIPLE_pants.png"
+  },
+  {
+    "name": "DROWNED DISCIPLE [R]",
+    "color": ["BI", "SK", "LS"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Seawater Cloth"}
+    ],
+    "image": "Gear/Season 6/DROWNED DISCIPLE_ring.png"
+  },
+  {
+    "name": "DROWNED DISCIPLE [W]",
+    "color": ["WF", "DG", "WW"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Seawater Cloth"}
+    ],
+    "image": "Gear/Season 6/DROWNED DISCIPLE_weapon.png"
+  },
+  {
+    "name": "UNLEASHED WARRIOR [B]",
+    "color": ["KW", "GH", "WF"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Hardened Leather"}
+    ],
+    "image": "Gear/Season 6/UNLEASHED WARRIOR_boots.png"
+  },
+  {
+    "name": "UNLEASHED WARRIOR [C]",
+    "color": ["MP", "CB", "HD"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Hardened Leather"}
+    ],
+    "image": "Gear/Season 6/UNLEASHED WARRIOR_chest.png"
+  },
+  {
+    "name": "UNLEASHED WARRIOR [H]",
+    "color": ["LS", "WW", "BI"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Hardened Leather"}
+    ],
+    "image": "Gear/Season 6/UNLEASHED WARRIOR_helmet.png"
+  },
+  {
+    "name": "UNLEASHED WARRIOR [P]",
+    "color": ["DG", "IW", "SK"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Hardened Leather"}
+    ],
+    "image": "Gear/Season 6/UNLEASHED WARRIOR_pants.png"
+  },
+  {
+    "name": "UNLEASHED WARRIOR [R]",
+    "color": ["GH", "HD", "MP"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Hardened Leather"}
+    ],
+    "image": "Gear/Season 6/UNLEASHED WARRIOR_ring.png"
+  },
+  {
+    "name": "UNLEASHED WARRIOR [W]",
+    "color": ["CB", "WF", "KW"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Hardened Leather"}
+    ],
+    "image": "Gear/Season 6/UNLEASHED WARRIOR_weapon.png"
+  },
+  {
+    "name": "CRANNOGMAN [B]",
+    "color": ["LS", "GH", "DG"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Alligator Skins"}
+    ],
+    "image": "Gear/Season 6/CRANNOGMAN_boots.png"
+  },
+  {
+    "name": "CRANNOGMAN [C]",
+    "color": ["WF", "SK", "BI"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Alligator Skins"}
+    ],
+    "image": "Gear/Season 6/CRANNOGMAN_chest.png"
+  },
+  {
+    "name": "CRANNOGMAN [H]",
+    "color": ["MP", "CB", "HD"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Alligator Skins"}
+    ],
+    "image": "Gear/Season 6/CRANNOGMAN_helmet.png"
+  },
+  {
+    "name": "CRANNOGMAN [P]",
+    "color": ["WW", "IW", "KW"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Alligator Skins"}
+    ],
+    "image": "Gear/Season 6/CRANNOGMAN_pants.png"
+  },
+  {
+    "name": "CRANNOGMAN [R]",
+    "color": ["KW", "SK", "MP"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Alligator Skins"}
+    ],
+    "image": "Gear/Season 6/CRANNOGMAN_ring.png"
+  },
+  {
+    "name": "CRANNOGMAN [W]",
+    "color": ["WW", "GH", "DG"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Alligator Skins"}
+    ],
+    "image": "Gear/Season 6/CRANNOGMAN_weapon.png"
+  },
+  {
+    "name": "NORTHERN GUARDIAN [B]",
+    "color": ["WF", "LS", "IW"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Weirwood Sap"}
+    ],
+    "image": "Gear/Season 6/NORTHERN GUARDIAN_boots.png"
+  },
+  {
+    "name": "NORTHERN GUARDIAN [C]",
+    "color": ["BI", "CB", "HD"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Weirwood Sap"}
+    ],
+    "image": "Gear/Season 6/NORTHERN GUARDIAN_chest.png"
+  },
+  {
+    "name": "NORTHERN GUARDIAN [H]",
+    "color": ["WW", "IW", "CB"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Weirwood Sap"}
+    ],
+    "image": "Gear/Season 6/NORTHERN GUARDIAN_helmet.png"
+  },
+  {
+    "name": "NORTHERN GUARDIAN [P]",
+    "color": ["HD", "MP", "KW"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Weirwood Sap"}
+    ],
+    "image": "Gear/Season 6/NORTHERN GUARDIAN_pants.png"
+  },
+  {
+    "name": "NORTHERN GUARDIAN [R]",
+    "color": ["DG", "BI", "SK"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Weirwood Sap"}
+    ],
+    "image": "Gear/Season 6/NORTHERN GUARDIAN_ring.png"
+  },
+  {
+    "name": "NORTHERN GUARDIAN [W]",
+    "color": ["GH", "LS", "WF"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Weirwood Sap"}
+    ],
+    "image": "Gear/Season 6/NORTHERN GUARDIAN_weapon.png"
+  },
+  {
+    "name": "RIMED REVENANT [B]",
+    "color": ["LS", "WF", "MP"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Rimed Leather"}
+    ],
+    "image": "Gear/Season 6/RIMED REVENANT_boots.png"
+  },
+  {
+    "name": "RIMED REVENANT [C]",
+    "color": ["HD", "GH", "BI"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Rimed Leather"}
+    ],
+    "image": "Gear/Season 6/RIMED REVENANT_chest.png"
+  },
+  {
+    "name": "RIMED REVENANT [H]",
+    "color": ["CB", "IW", "DG"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Rimed Leather"}
+    ],
+    "image": "Gear/Season 6/RIMED REVENANT_helmet.png"
+  },
+  {
+    "name": "RIMED REVENANT [P]",
+    "color": ["SK", "WW", "KW"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Rimed Leather"}
+    ],
+    "image": "Gear/Season 6/RIMED REVENANT_pants.png"
+  },
+  {
+    "name": "RIMED REVENANT [R]",
+    "color": ["KW", "DG", "SK"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Rimed Leather"}
+    ],
+    "image": "Gear/Season 6/RIMED REVENANT_ring.png"
+  },
+  {
+    "name": "RIMED REVENANT [W]",
+    "color": ["MP", "BI", "WF"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Rimed Leather"}
+    ],
+    "image": "Gear/Season 6/RIMED REVENANT_weapon.png"
+  },
+  {
+    "name": "HIGHGARDEN SOCIALITE [B]",
+    "color": ["WW", "GH", "LS"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Lavish Silk"}
+    ],
+    "image": "Gear/Season 6/HIGHGARDEN SOCIALITE_boots.png"
+  },
+  {
+    "name": "HIGHGARDEN SOCIALITE [C]",
+    "color": ["IW", "HD", "CB"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Lavish Silk"}
+    ],
+    "image": "Gear/Season 6/HIGHGARDEN SOCIALITE_chest.png"
+  },
+  {
+    "name": "HIGHGARDEN SOCIALITE [H]",
+    "color": ["BI", "SK", "DG"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Lavish Silk"}
+    ],
+    "image": "Gear/Season 6/HIGHGARDEN SOCIALITE_helmet.png"
+  },
+  {
+    "name": "HIGHGARDEN SOCIALITE [P]",
+    "color": ["HD", "LS", "IW"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Lavish Silk"}
+    ],
+    "image": "Gear/Season 6/HIGHGARDEN SOCIALITE_pants.png"
+  },
+  {
+    "name": "HIGHGARDEN SOCIALITE [R]",
+    "color": ["KW", "MP", "WW"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Lavish Silk"}
+    ],
+    "image": "Gear/Season 6/HIGHGARDEN SOCIALITE_ring.png"
+  },
+  {
+    "name": "HIGHGARDEN SOCIALITE [W]",
+    "color": ["WF", "CB", "GH"],
+    "placeCategories": [
+      {"season": "Season 6", "category": "Lavish Silk"}
+    ],
+    "image": "Gear/Season 6/HIGHGARDEN SOCIALITE_weapon.png"
+  },
+  {
+    "name": "IRONBORN CAPTAIN [B]",
+    "color": ["SK", "DG", "KW"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Drowned Leather"}
+    ],
+    "image": "Gear/Season 7/IRONBORN CAPTAIN_boots.png"
+  },
+  {
+    "name": "IRONBORN CAPTAIN [C]",
+    "color": ["CB", "MP", "WF"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Drowned Leather"}
+    ],
+    "image": "Gear/Season 7/IRONBORN CAPTAIN_chest.png"
+  },
+  {
+    "name": "IRONBORN CAPTAIN [H]",
+    "color": ["IW", "GH", "CB"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Drowned Leather"}
+    ],
+    "image": "Gear/Season 7/IRONBORN CAPTAIN_helmet.png"
+  },
+  {
+    "name": "IRONBORN CAPTAIN [P]",
+    "color": ["MP", "BI", "HD"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Drowned Leather"}
+    ],
+    "image": "Gear/Season 7/IRONBORN CAPTAIN_pants.png"
+  },
+  {
+    "name": "IRONBORN CAPTAIN [R]",
+    "color": ["WW", "KW", "LS"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Drowned Leather"}
+    ],
+    "image": "Gear/Season 7/IRONBORN CAPTAIN_ring.png"
+  },
+  {
+    "name": "IRONBORN CAPTAIN [W]",
+    "color": ["GH", "WF", "DG"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Drowned Leather"}
+    ],
+    "image": "Gear/Season 7/IRONBORN CAPTAIN_weapon.png"
+  },
+  {
+    "name": "LAUGHING KNIGHT [B]",
+    "color": ["LS", "SK", "BI"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Sundry Steel"}
+    ],
+    "image": "Gear/Season 7/LAUGHING KNIGHT_boots.png"
+  },
+  {
+    "name": "LAUGHING KNIGHT [C]",
+    "color": ["HD", "IW", "WW"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Sundry Steel"}
+    ],
+    "image": "Gear/Season 7/LAUGHING KNIGHT_chest.png"
+  },
+  {
+    "name": "LAUGHING KNIGHT [H]",
+    "color": ["BI", "LS", "SK"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Sundry Steel"}
+    ],
+    "image": "Gear/Season 7/LAUGHING KNIGHT_helmet.png"
+  },
+  {
+    "name": "LAUGHING KNIGHT [P]",
+    "color": ["DG", "WW", "WF"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Sundry Steel"}
+    ],
+    "image": "Gear/Season 7/LAUGHING KNIGHT_pants.png"
+  },
+  {
+    "name": "LAUGHING KNIGHT [R]",
+    "color": ["IW", "HD", "GH"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Sundry Steel"}
+    ],
+    "image": "Gear/Season 7/LAUGHING KNIGHT_ring.png"
+  },
+  {
+    "name": "LAUGHING KNIGHT [W]",
+    "color": ["KW", "CB", "MP"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Sundry Steel"}
+    ],
+    "image": "Gear/Season 7/LAUGHING KNIGHT_weapon.png"
+  },
+  {
+    "name": "CITADEL INQUISITOR [B]",
+    "color": ["HD", "BI", "LS"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Linked Mail"}
+    ],
+    "image": "Gear/Season 7/CITADEL INQUISITOR_boots.png"
+  },
+  {
+    "name": "CITADEL INQUISITOR [C]",
+    "color": ["SK", "IW", "CB"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Linked Mail"}
+    ],
+    "image": "Gear/Season 7/CITADEL INQUISITOR_chest.png"
+  },
+  {
+    "name": "CITADEL INQUISITOR [H]",
+    "color": ["DG", "KW", "HD"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Linked Mail"}
+    ],
+    "image": "Gear/Season 7/CITADEL INQUISITOR_helmet.png"
+  },
+  {
+    "name": "CITADEL INQUISITOR [P]",
+    "color": ["WF", "GH", "SK"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Linked Mail"}
+    ],
+    "image": "Gear/Season 7/CITADEL INQUISITOR_pants.png"
+  },
+  {
+    "name": "CITADEL INQUISITOR [R]",
+    "color": ["LS", "DG", "BI"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Linked Mail"}
+    ],
+    "image": "Gear/Season 7/CITADEL INQUISITOR_ring.png"
+  },
+  {
+    "name": "CITADEL INQUISITOR [W]",
+    "color": ["WW", "MP", "IW"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Linked Mail"}
+    ],
+    "image": "Gear/Season 7/CITADEL INQUISITOR_weapon.png"
+  },
+  {
+    "name": "FLEDGLING SQUIRE [B]",
+    "color": ["GH", "LS", "WF"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Untarnished Leather"}
+    ],
+    "image": "Gear/Season 7/FLEDGLING SQUIRE_boots.png"
+  },
+  {
+    "name": "FLEDGLING SQUIRE [C]",
+    "color": ["MP", "HD", "KW"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Untarnished Leather"}
+    ],
+    "image": "Gear/Season 7/FLEDGLING SQUIRE_chest.png"
+  },
+  {
+    "name": "FLEDGLING SQUIRE [H]",
+    "color": ["CB", "SK", "LS"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Untarnished Leather"}
+    ],
+    "image": "Gear/Season 7/FLEDGLING SQUIRE_helmet.png"
+  },
+  {
+    "name": "FLEDGLING SQUIRE [P]",
+    "color": ["BI", "WF", "WW"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Untarnished Leather"}
+    ],
+    "image": "Gear/Season 7/FLEDGLING SQUIRE_pants.png"
+  },
+  {
+    "name": "FLEDGLING SQUIRE [R]",
+    "color": ["WW", "CB", "MP"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Untarnished Leather"}
+    ],
+    "image": "Gear/Season 7/FLEDGLING SQUIRE_ring.png"
+  },
+  {
+    "name": "FLEDGLING SQUIRE [W]",
+    "color": ["DG", "IW", "GH"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Untarnished Leather"}
+    ],
+    "image": "Gear/Season 7/FLEDGLING SQUIRE_weapon.png"
+  },
+  {
+    "name": "WINTER SURVIVOR [B]",
+    "color": ["KW", "LS", "BI"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Fur-Lined Leather"}
+    ],
+    "image": "Gear/Season 7/WINTER SURVIVOR_boots.png"
+  },
+  {
+    "name": "WINTER SURVIVOR [C]",
+    "color": ["SK", "WW", "DG"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Fur-Lined Leather"}
+    ],
+    "image": "Gear/Season 7/WINTER SURVIVOR_chest.png"
+  },
+  {
+    "name": "WINTER SURVIVOR [H]",
+    "color": ["IW", "KW", "HD"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Fur-Lined Leather"}
+    ],
+    "image": "Gear/Season 7/WINTER SURVIVOR_helmet.png"
+  },
+  {
+    "name": "WINTER SURVIVOR [P]",
+    "color": ["WF", "MP", "CB"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Fur-Lined Leather"}
+    ],
+    "image": "Gear/Season 7/WINTER SURVIVOR_pants.png"
+  },
+  {
+    "name": "WINTER SURVIVOR [R]",
+    "color": ["HD", "GH", "SK"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Fur-Lined Leather"}
+    ],
+    "image": "Gear/Season 7/WINTER SURVIVOR_ring.png"
+  },
+  {
+    "name": "WINTER SURVIVOR [W]",
+    "color": ["DG", "BI", "WW"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Fur-Lined Leather"}
+    ],
+    "image": "Gear/Season 7/WINTER SURVIVOR_weapon.png"
+  },
+  {
+    "name": "STORM LORD [B]",
+    "color": ["BI", "SK", "HD"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Boiled Leather"}
+    ],
+    "image": "Gear/Season 7/STORM LORD_boots.png"
+  },
+  {
+    "name": "STORM LORD [C]",
+    "color": ["GH", "LS", "WW"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Boiled Leather"}
+    ],
+    "image": "Gear/Season 7/STORM LORD_chest.png"
+  },
+  {
+    "name": "STORM LORD [H]",
+    "color": ["MP", "KW", "SK"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Boiled Leather"}
+    ],
+    "image": "Gear/Season 7/STORM LORD_helmet.png"
+  },
+  {
+    "name": "STORM LORD [P]",
+    "color": ["IW", "HD", "KW"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Boiled Leather"}
+    ],
+    "image": "Gear/Season 7/STORM LORD_pants.png"
+  },
+  {
+    "name": "STORM LORD [R]",
+    "color": ["GH", "CB", "IW"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Boiled Leather"}
+    ],
+    "image": "Gear/Season 7/STORM LORD_ring.png"
+  },
+  {
+    "name": "STORM LORD [W]",
+    "color": ["DG", "WF", "BI"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Boiled Leather"}
+    ],
+    "image": "Gear/Season 7/STORM LORD_weapon.png"
+  },
+  {
+    "name": "IRON KEYHOLDER [B]",
+    "color": ["IW", "DG", "CB"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Luxurious Linen"}
+    ],
+    "image": "Gear/Season 7/IRON KEYHOLDER_boots.png"
+  },
+  {
+    "name": "IRON KEYHOLDER [C]",
+    "color": ["KW", "MP", "WF"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Luxurious Linen"}
+    ],
+    "image": "Gear/Season 7/IRON KEYHOLDER_chest.png"
+  },
+  {
+    "name": "IRON KEYHOLDER [H]",
+    "color": ["SK", "BI", "DG"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Luxurious Linen"}
+    ],
+    "image": "Gear/Season 7/IRON KEYHOLDER_helmet.png"
+  },
+  {
+    "name": "IRON KEYHOLDER [P]",
+    "color": ["HD", "WW", "LS"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Luxurious Linen"}
+    ],
+    "image": "Gear/Season 7/IRON KEYHOLDER_pants.png"
+  },
+  {
+    "name": "IRON KEYHOLDER [R]",
+    "color": ["WF", "KW", "CB"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Luxurious Linen"}
+    ],
+    "image": "Gear/Season 7/IRON KEYHOLDER_ring.png"
+  },
+  {
+    "name": "IRON KEYHOLDER [W]",
+    "color": ["MP", "GH", "IW"],
+    "placeCategories": [
+      {"season": "Season 7", "category": "Luxurious Linen"}
+    ],
+    "image": "Gear/Season 7/IRON KEYHOLDER_weapon.png"
+  },
+  {
+    "name": "TARGARYEN ROYAL [B]",
+    "color": ["BI", "SK", "WW"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Targaryen Embroidery"}
+    ],
+    "image": "Gear/Season 8/TARGARYEN ROYAL_boots.png"
+  },
+  {
+    "name": "TARGARYEN ROYAL [C]",
+    "color": ["DG", "IW", "HD"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Targaryen Embroidery"}
+    ],
+    "image": "Gear/Season 8/TARGARYEN ROYAL_chest.png"
+  },
+  {
+    "name": "TARGARYEN ROYAL [H]",
+    "color": ["LS", "CB", "KW"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Targaryen Embroidery"}
+    ],
+    "image": "Gear/Season 8/TARGARYEN ROYAL_helmet.png"
+  },
+  {
+    "name": "TARGARYEN ROYAL [P]",
+    "color": ["GH", "WF", "MP"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Targaryen Embroidery"}
+    ],
+    "image": "Gear/Season 8/TARGARYEN ROYAL_pants.png"
+  },
+  {
+    "name": "TARGARYEN ROYAL [R]",
+    "color": ["HD", "WW", "LS"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Targaryen Embroidery"}
+    ],
+    "image": "Gear/Season 8/TARGARYEN ROYAL_ring.png"
+  },
+  {
+    "name": "TARGARYEN ROYAL [W]",
+    "color": ["SK", "DG", "BI"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Targaryen Embroidery"}
+    ],
+    "image": "Gear/Season 8/TARGARYEN ROYAL_weapon.png"
+  },
+  {
+    "name": "VALYRIAN CHAMPION [B]",
+    "color": ["CB", "MP", "GH"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Gilded Mail"}
+    ],
+    "image": "Gear/Season 8/VALYRIAN CHAMPION_boots.png"
+  },
+  {
+    "name": "VALYRIAN CHAMPION [C]",
+    "color": ["IW", "KW", "WF"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Gilded Mail"}
+    ],
+    "image": "Gear/Season 8/VALYRIAN CHAMPION_chest.png"
+  },
+  {
+    "name": "VALYRIAN CHAMPION [H]",
+    "color": ["WW", "BI", "SK"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Gilded Mail"}
+    ],
+    "image": "Gear/Season 8/VALYRIAN CHAMPION_helmet.png"
+  },
+  {
+    "name": "VALYRIAN CHAMPION [P]",
+    "color": ["DG", "LS", "HD"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Gilded Mail"}
+    ],
+    "image": "Gear/Season 8/VALYRIAN CHAMPION_pants.png"
+  },
+  {
+    "name": "VALYRIAN CHAMPION [R]",
+    "color": ["KW", "WF", "MP"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Gilded Mail"}
+    ],
+    "image": "Gear/Season 8/VALYRIAN CHAMPION_ring.png"
+  },
+  {
+    "name": "VALYRIAN CHAMPION [W]",
+    "color": ["GH", "IW", "CB"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Gilded Mail"}
+    ],
+    "image": "Gear/Season 8/VALYRIAN CHAMPION_weapon.png"
+  },
+  {
+    "name": "FESTIVAL CAROUSER [B]",
+    "color": ["LS", "HD", "KW"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Silk Brocade"}
+    ],
+    "image": "Gear/Season 8/FESTIVAL CAROUSER_boots.png"
+  },
+  {
+    "name": "FESTIVAL CAROUSER [C]",
+    "color": ["BI", "GH", "DG"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Silk Brocade"}
+    ],
+    "image": "Gear/Season 8/FESTIVAL CAROUSER_chest.png"
+  },
+  {
+    "name": "FESTIVAL CAROUSER [H]",
+    "color": ["MP", "SK", "WW"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Silk Brocade"}
+    ],
+    "image": "Gear/Season 8/FESTIVAL CAROUSER_helmet.png"
+  },
+  {
+    "name": "FESTIVAL CAROUSER [P]",
+    "color": ["WF", "CB", "IW"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Silk Brocade"}
+    ],
+    "image": "Gear/Season 8/FESTIVAL CAROUSER_pants.png"
+  },
+  {
+    "name": "FESTIVAL CAROUSER [R]",
+    "color": ["SK", "WW", "BI"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Silk Brocade"}
+    ],
+    "image": "Gear/Season 8/FESTIVAL CAROUSER_ring.png"
+  },
+  {
+    "name": "FESTIVAL CAROUSER [W]",
+    "color": ["HD", "DG", "LS"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Silk Brocade"}
+    ],
+    "image": "Gear/Season 8/FESTIVAL CAROUSER_weapon.png"
+  },
+  {
+    "name": "DRAGON RIDER [B]",
+    "color": ["MP", "KW", "IW"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Dragon Tempered Fabrics"}
+    ],
+    "image": "Gear/Season 8/DRAGON RIDER_boots.png"
+  },
+  {
+    "name": "DRAGON RIDER [C]",
+    "color": ["KW", "CB", "GH"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Dragon Tempered Fabrics"}
+    ],
+    "image": "Gear/Season 8/DRAGON RIDER_chest.png"
+  },
+  {
+    "name": "DRAGON RIDER [H]",
+    "color": ["WF", "DG", "MP"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Dragon Tempered Fabrics"}
+    ],
+    "image": "Gear/Season 8/DRAGON RIDER_helmet.png"
+  },
+  {
+    "name": "DRAGON RIDER [P]",
+    "color": ["IW", "WF", "CB"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Dragon Tempered Fabrics"}
+    ],
+    "image": "Gear/Season 8/DRAGON RIDER_pants.png"
+  },
+  {
+    "name": "DRAGON RIDER [R]",
+    "color": ["WW", "BI", "SK"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Dragon Tempered Fabrics"}
+    ],
+    "image": "Gear/Season 8/DRAGON RIDER_ring.png"
+  },
+  {
+    "name": "DRAGON RIDER [W]",
+    "color": ["HD", "GH", "LS"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Dragon Tempered Fabrics"}
+    ],
+    "image": "Gear/Season 8/DRAGON RIDER_weapon.png"
+  },
+  {
+    "name": "VALYRIAN BLOODMAGE [B]",
+    "color": ["KW", "LS", "WW"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Ritual Cloths"}
+    ],
+    "image": "Gear/Season 8/VALYRIAN BLOODMAGE_boots.png"
+  },
+  {
+    "name": "VALYRIAN BLOODMAGE [C]",
+    "color": ["BI", "HD", "IW"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Ritual Cloths"}
+    ],
+    "image": "Gear/Season 8/VALYRIAN BLOODMAGE_chest.png"
+  },
+  {
+    "name": "VALYRIAN BLOODMAGE [H]",
+    "color": ["CB", "DG", "GH"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Ritual Cloths"}
+    ],
+    "image": "Gear/Season 8/VALYRIAN BLOODMAGE_helmet.png"
+  },
+  {
+    "name": "VALYRIAN BLOODMAGE [P]",
+    "color": ["MP", "SK", "WF"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Ritual Cloths"}
+    ],
+    "image": "Gear/Season 8/VALYRIAN BLOODMAGE_pants.png"
+  },
+  {
+    "name": "VALYRIAN BLOODMAGE [R]",
+    "color": ["HD", "CB", "DG"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Ritual Cloths"}
+    ],
+    "image": "Gear/Season 8/VALYRIAN BLOODMAGE_ring.png"
+  },
+  {
+    "name": "VALYRIAN BLOODMAGE [W]",
+    "color": ["WF", "MP", "KW"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Ritual Cloths"}
+    ],
+    "image": "Gear/Season 8/VALYRIAN BLOODMAGE_weapon.png"
+  },
+  {
+    "name": "LIVING MOUNTAIN [B]",
+    "color": ["SK", "WW", "IW"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Dark Steel Plate"}
+    ],
+    "image": "Gear/Season 8/LIVING MOUNTAIN_boots.png"
+  },
+  {
+    "name": "LIVING MOUNTAIN [C]",
+    "color": ["LS", "BI", "GH"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Dark Steel Plate"}
+    ],
+    "image": "Gear/Season 8/LIVING MOUNTAIN_chest.png"
+  },
+  {
+    "name": "LIVING MOUNTAIN [H]",
+    "color": ["KW", "HD", "CB"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Dark Steel Plate"}
+    ],
+    "image": "Gear/Season 8/LIVING MOUNTAIN_helmet.png"
+  },
+  {
+    "name": "LIVING MOUNTAIN [P]",
+    "color": ["DG", "SK", "BI"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Dark Steel Plate"}
+    ],
+    "image": "Gear/Season 8/LIVING MOUNTAIN_pants.png"
+  },
+  {
+    "name": "LIVING MOUNTAIN [R]",
+    "color": ["GH", "MP", "WW"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Dark Steel Plate"}
+    ],
+    "image": "Gear/Season 8/LIVING MOUNTAIN_ring.png"
+  },
+  {
+    "name": "LIVING MOUNTAIN [W]",
+    "color": ["IW", "WF", "LS"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Dark Steel Plate"}
+    ],
+    "image": "Gear/Season 8/LIVING MOUNTAIN_weapon.png"
+  },
+  {
+    "name": "NORTHERN NOBLE [B]",
+    "color": ["MP", "SK", "KW"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Northern Fox Pelts"}
+    ],
+    "image": "Gear/Season 8/NORTHERN NOBLE_boots.png"
+  },
+  {
+    "name": "NORTHERN NOBLE [C]",
+    "color": ["CB", "HD", "BI"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Northern Fox Pelts"}
+    ],
+    "image": "Gear/Season 8/NORTHERN NOBLE_chest.png"
+  },
+  {
+    "name": "NORTHERN NOBLE [H]",
+    "color": ["WW", "IW", "DG"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Northern Fox Pelts"}
+    ],
+    "image": "Gear/Season 8/NORTHERN NOBLE_helmet.png"
+  },
+  {
+    "name": "NORTHERN NOBLE [P]",
+    "color": ["LS", "WF", "CB"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Northern Fox Pelts"}
+    ],
+    "image": "Gear/Season 8/NORTHERN NOBLE_pants.png"
+  },
+  {
+    "name": "NORTHERN NOBLE [R]",
+    "color": ["GH", "BI", "HD"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Northern Fox Pelts"}
+    ],
+    "image": "Gear/Season 8/NORTHERN NOBLE_ring.png"
+  },
+  {
+    "name": "NORTHERN NOBLE [W]",
+    "color": ["SK", "KW", "MP"],
+    "placeCategories": [
+      {"season": "Season 8", "category": "Northern Fox Pelts"}
+    ],
+    "image": "Gear/Season 8/NORTHERN NOBLE_weapon.png"
+  },
+  {
+    "name": "LOST TARGARYEN [B]",
+    "color": ["CB", "MP", "KW"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Steel Scales"}
+    ],
+    "image": "Gear/Season 9/LOST TARGARYEN_boots.png"
+  },
+  {
+    "name": "LOST TARGARYEN [C]",
+    "color": ["HD", "BI", "LS"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Steel Scales"}
+    ],
+    "image": "Gear/Season 9/LOST TARGARYEN_chest.png"
+  },
+  {
+    "name": "LOST TARGARYEN [H]",
+    "color": ["WW", "SK", "WF"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Steel Scales"}
+    ],
+    "image": "Gear/Season 9/LOST TARGARYEN_helmet.png"
+  },
+  {
+    "name": "LOST TARGARYEN [P]",
+    "color": ["GH", "CB", "LS"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Steel Scales"}
+    ],
+    "image": "Gear/Season 9/LOST TARGARYEN_pants.png"
+  },
+  {
+    "name": "LOST TARGARYEN [R]",
+    "color": ["WF", "MP", "KW"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Steel Scales"}
+    ],
+    "image": "Gear/Season 9/LOST TARGARYEN_ring.png"
+  },
+  {
+    "name": "LOST TARGARYEN [W]",
+    "color": ["IW", "DG", "BI"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Steel Scales"}
+    ],
+    "image": "Gear/Season 9/LOST TARGARYEN_weapon.png"
+  },
+  {
+    "name": "TARG KINGSGUARD [B]",
+    "color": ["SK", "WW", "IW"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Kingsguard Leather"}
+    ],
+    "image": "Gear/Season 9/TARG KINGSGUARD_boots.png"
+  },
+  {
+    "name": "TARG KINGSGUARD [C]",
+    "color": ["HD", "GH", "DG"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Kingsguard Leather"}
+    ],
+    "image": "Gear/Season 9/TARG KINGSGUARD_chest.png"
+  },
+  {
+    "name": "TARG KINGSGUARD [H]",
+    "color": ["CB", "IW", "WF"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Kingsguard Leather"}
+    ],
+    "image": "Gear/Season 9/TARG KINGSGUARD_helmet.png"
+  },
+  {
+    "name": "TARG KINGSGUARD [P]",
+    "color": ["LS", "KW", "HD"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Kingsguard Leather"}
+    ],
+    "image": "Gear/Season 9/TARG KINGSGUARD_pants.png"
+  },
+  {
+    "name": "TARG KINGSGUARD [R]",
+    "color": ["BI", "SK", "MP"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Kingsguard Leather"}
+    ],
+    "image": "Gear/Season 9/TARG KINGSGUARD_ring.png"
+  },
+  {
+    "name": "TARG KINGSGUARD [W]",
+    "color": ["DG", "GH", "WW"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Kingsguard Leather"}
+    ],
+    "image": "Gear/Season 9/TARG KINGSGUARD_weapon.png"
+  },
+  {
+    "name": "CHAINBREAKER [B]",
+    "color": ["WF", "WW", "SK"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Liberator's Silk"}
+    ],
+    "image": "Gear/Season 9/CHAINBREAKER_boots.png"
+  },
+  {
+    "name": "CHAINBREAKER [C]",
+    "color": ["GH", "HD", "BI"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Liberator's Silk"}
+    ],
+    "image": "Gear/Season 9/CHAINBREAKER_chest.png"
+  },
+  {
+    "name": "CHAINBREAKER [H]",
+    "color": ["IW", "LS", "CB"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Liberator's Silk"}
+    ],
+    "image": "Gear/Season 9/CHAINBREAKER_helmet.png"
+  },
+  {
+    "name": "CHAINBREAKER [P]",
+    "color": ["DG", "MP", "GH"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Liberator's Silk"}
+    ],
+    "image": "Gear/Season 9/CHAINBREAKER_pants.png"
+  },
+  {
+    "name": "CHAINBREAKER [R]",
+    "color": ["KW", "DG", "LS"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Liberator's Silk"}
+    ],
+    "image": "Gear/Season 9/CHAINBREAKER_ring.png"
+  },
+  {
+    "name": "CHAINBREAKER [W]",
+    "color": ["CB", "IW", "BI"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Liberator's Silk"}
+    ],
+    "image": "Gear/Season 9/CHAINBREAKER_weapon.png"
+  },
+  {
+    "name": "RHONYSH VOYAGER [B]",
+    "color": ["WF", "LS", "WW"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Hardy Silks"}
+    ],
+    "image": "Gear/Season 9/RHONYSH VOYAGER_boots.png"
+  },
+  {
+    "name": "RHONYSH VOYAGER [C]",
+    "color": ["IW", "DG", "MP"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Hardy Silks"}
+    ],
+    "image": "Gear/Season 9/RHONYSH VOYAGER_chest.png"
+  },
+  {
+    "name": "RHONYSH VOYAGER [H]",
+    "color": ["SK", "WF", "HD"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Hardy Silks"}
+    ],
+    "image": "Gear/Season 9/RHONYSH VOYAGER_helmet.png"
+  },
+  {
+    "name": "RHONYSH VOYAGER [P]",
+    "color": ["HD", "MP", "IW"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Hardy Silks"}
+    ],
+    "image": "Gear/Season 9/RHONYSH VOYAGER_pants.png"
+  },
+  {
+    "name": "RHONYSH VOYAGER [R]",
+    "color": ["KW", "WW", "SK"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Hardy Silks"}
+    ],
+    "image": "Gear/Season 9/RHONYSH VOYAGER_ring.png"
+  },
+  {
+    "name": "RHONYSH VOYAGER [W]",
+    "color": ["GH", "CB", "BI"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Hardy Silks"}
+    ],
+    "image": "Gear/Season 9/RHONYSH VOYAGER_weapon.png"
+  },
+  {
+    "name": "FACELESS WOLF [B]",
+    "color": ["KW", "WW", "LS"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Northern Leathers"}
+    ],
+    "image": "Gear/Season 9/FACELESS WOLF_boots.png"
+  },
+  {
+    "name": "FACELESS WOLF [C]",
+    "color": ["BI", "SK", "HD"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Northern Leathers"}
+    ],
+    "image": "Gear/Season 9/FACELESS WOLF_chest.png"
+  },
+  {
+    "name": "FACELESS WOLF [H]",
+    "color": ["SK", "DG", "MP"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Northern Leathers"}
+    ],
+    "image": "Gear/Season 9/FACELESS WOLF_helmet.png"
+  },
+  {
+    "name": "FACELESS WOLF [P]",
+    "color": ["GH", "WF", "WW"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Northern Leathers"}
+    ],
+    "image": "Gear/Season 9/FACELESS WOLF_pants.png"
+  },
+  {
+    "name": "FACELESS WOLF [R]",
+    "color": ["CB", "MP", "BI"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Northern Leathers"}
+    ],
+    "image": "Gear/Season 9/FACELESS WOLF_ring.png"
+  },
+  {
+    "name": "FACELESS WOLF [W]",
+    "color": ["WF", "IW", "KW"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Northern Leathers"}
+    ],
+    "image": "Gear/Season 9/FACELESS WOLF_weapon.png"
+  },
+  {
+    "name": "THENN [B]",
+    "color": ["LS", "GH", "DG"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Bronze Discs"}
+    ],
+    "image": "Gear/Season 9/THENN_boots.png"
+  },
+  {
+    "name": "THENN [C]",
+    "color": ["HD", "KW", "CB"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Bronze Discs"}
+    ],
+    "image": "Gear/Season 9/THENN_chest.png"
+  },
+  {
+    "name": "THENN [H]",
+    "color": ["WW", "BI", "LS"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Bronze Discs"}
+    ],
+    "image": "Gear/Season 9/THENN_helmet.png"
+  },
+  {
+    "name": "THENN [P]",
+    "color": ["DG", "HD", "SK"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Bronze Discs"}
+    ],
+    "image": "Gear/Season 9/THENN_pants.png"
+  },
+  {
+    "name": "THENN [R]",
+    "color": ["MP", "CB", "IW"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Bronze Discs"}
+    ],
+    "image": "Gear/Season 9/THENN_ring.png"
+  },
+  {
+    "name": "THENN [W]",
+    "color": ["KW", "WF", "GH"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Bronze Discs"}
+    ],
+    "image": "Gear/Season 9/THENN_weapon.png"
+  },
+  {
+    "name": "HARVEST FOOL [B]",
+    "color": ["DG", "CB", "MP"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Motley Cloth"}
+    ],
+    "image": "Gear/Season 9/HARVEST FOOL_boots.png"
+  },
+  {
+    "name": "HARVEST FOOL [C]",
+    "color": ["SK", "HD", "WF"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Motley Cloth"}
+    ],
+    "image": "Gear/Season 9/HARVEST FOOL_chest.png"
+  },
+  {
+    "name": "HARVEST FOOL [H]",
+    "color": ["GH", "BI", "WW"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Motley Cloth"}
+    ],
+    "image": "Gear/Season 9/HARVEST FOOL_helmet.png"
+  },
+  {
+    "name": "HARVEST FOOL [P]",
+    "color": ["KW", "LS", "IW"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Motley Cloth"}
+    ],
+    "image": "Gear/Season 9/HARVEST FOOL_pants.png"
+  },
+  {
+    "name": "HARVEST FOOL [R]",
+    "color": ["WF", "DG", "LS"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Motley Cloth"}
+    ],
+    "image": "Gear/Season 9/HARVEST FOOL_ring.png"
+  },
+  {
+    "name": "HARVEST FOOL [W]",
+    "color": ["BI", "WW", "HD"],
+    "placeCategories": [
+      {"season": "Season 9", "category": "Motley Cloth"}
+    ],
+    "image": "Gear/Season 9/HARVEST FOOL_weapon.png"
+  },
+  {
+    "name": "FISHMONGER [B]",
+    "color": ["LS", "KW", "WF"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Fishmonger's Net"}
+    ],
+    "image": "Gear/Season 10/FISHMONGER_boots.png"
+  },
+  {
+    "name": "FISHMONGER [C]",
+    "color": ["SK", "GH", "BI"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Fishmonger's Net"}
+    ],
+    "image": "Gear/Season 10/FISHMONGER_chest.png"
+  },
+  {
+    "name": "FISHMONGER [H]",
+    "color": ["HD", "DG", "GH"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Fishmonger's Net"}
+    ],
+    "image": "Gear/Season 10/FISHMONGER_helmet.png"
+  },
+  {
+    "name": "FISHMONGER [P]",
+    "color": ["WW", "SK", "MP"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Fishmonger's Net"}
+    ],
+    "image": "Gear/Season 10/FISHMONGER_pants.png"
+  },
+  {
+    "name": "FISHMONGER [R]",
+    "color": ["CB", "IW", "KW"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Fishmonger's Net"}
+    ],
+    "image": "Gear/Season 10/FISHMONGER_ring.png"
+  },
+  {
+    "name": "FISHMONGER [W]",
+    "color": ["MP", "CB", "IW"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Fishmonger's Net"}
+    ],
+    "image": "Gear/Season 10/FISHMONGER_weapon.png"
+  },
+  {
+    "name": "TOURNAMENT HERALD [B]",
+    "color": ["WW", "BI", "LS"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Heraldic Finery"}
+    ],
+    "image": "Gear/Season 10/TOURNAMENT HERALD_boots.png"
+  },
+  {
+    "name": "TOURNAMENT HERALD [C]",
+    "color": ["IW", "HD", "SK"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Heraldic Finery"}
+    ],
+    "image": "Gear/Season 10/TOURNAMENT HERALD_chest.png"
+  },
+  {
+    "name": "TOURNAMENT HERALD [H]",
+    "color": ["KW", "MP", "DG"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Heraldic Finery"}
+    ],
+    "image": "Gear/Season 10/TOURNAMENT HERALD_helmet.png"
+  },
+  {
+    "name": "TOURNAMENT HERALD [P]",
+    "color": ["GH", "WF", "CB"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Heraldic Finery"}
+    ],
+    "image": "Gear/Season 10/TOURNAMENT HERALD_pants.png"
+  },
+  {
+    "name": "TOURNAMENT HERALD [R]",
+    "color": ["BI", "WW", "LS"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Heraldic Finery"}
+    ],
+    "image": "Gear/Season 10/TOURNAMENT HERALD_ring.png"
+  },
+  {
+    "name": "TOURNAMENT HERALD [W]",
+    "color": ["SK", "IW", "HD"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Heraldic Finery"}
+    ],
+    "image": "Gear/Season 10/TOURNAMENT HERALD_weapon.png"
+  },
+  {
+    "name": "UMBER BERSERKER [B]",
+    "color": ["KW", "GH", "LS"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Umber Chains"}
+    ],
+    "image": "Gear/Season 10/UMBER BERSERKER_boots.png"
+  },
+  {
+    "name": "UMBER BERSERKER [C]",
+    "color": ["DG", "CB", "HD"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Umber Chains"}
+    ],
+    "image": "Gear/Season 10/UMBER BERSERKER_chest.png"
+  },
+  {
+    "name": "UMBER BERSERKER [H]",
+    "color": ["SK", "DG", "MP"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Umber Chains"}
+    ],
+    "image": "Gear/Season 10/UMBER BERSERKER_helmet.png"
+  },
+  {
+    "name": "UMBER BERSERKER [P]",
+    "color": ["GH", "WF", "WW"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Umber Chains"}
+    ],
+    "image": "Gear/Season 10/UMBER BERSERKER_pants.png"
+  },
+  {
+    "name": "UMBER BERSERKER [R]",
+    "color": ["CB", "MP", "BI"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Umber Chains"}
+    ],
+    "image": "Gear/Season 10/UMBER BERSERKER_ring.png"
+  },
+  {
+    "name": "UMBER BERSERKER [W]",
+    "color": ["WF", "IW", "KW"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Umber Chains"}
+    ],
+    "image": "Gear/Season 10/UMBER BERSERKER_weapon.png"
+  },
+  {
+    "name": "STAG LORD [B]",
+    "color": ["SK", "GH", "LS"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Leather Bound Chains"}
+    ],
+    "image": "Gear/Season 10/STAG LORD_boots.png"
+  },
+  {
+    "name": "STAG LORD [C]",
+    "color": ["DG", "MP", "HD"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Leather Bound Chains"}
+    ],
+    "image": "Gear/Season 10/STAG LORD_chest.png"
+  },
+  {
+    "name": "STAG LORD [H]",
+    "color": ["KW", "CB", "MP"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Leather Bound Chains"}
+    ],
+    "image": "Gear/Season 10/STAG LORD_helmet.png"
+  },
+  {
+    "name": "STAG LORD [P]",
+    "color": ["HD", "WF", "WW"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Leather Bound Chains"}
+    ],
+    "image": "Gear/Season 10/STAG LORD_pants.png"
+  },
+  {
+    "name": "STAG LORD [R]",
+    "color": ["CB", "LS", "BI"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Leather Bound Chains"}
+    ],
+    "image": "Gear/Season 10/STAG LORD_ring.png"
+  },
+  {
+    "name": "STAG LORD [W]",
+    "color": ["BI", "IW", "KW"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Leather Bound Chains"}
+    ],
+    "image": "Gear/Season 10/STAG LORD_weapon.png"
+  },
+  {
+    "name": "TIDE LORD [B]",
+    "color": ["SK", "LS", "IW"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Iron Scales"}
+    ],
+    "image": "Gear/Season 10/TIDE LORD_boots.png"
+  },
+  {
+    "name": "TIDE LORD [C]",
+    "color": ["IW", "MP", "WF"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Iron Scales"}
+    ],
+    "image": "Gear/Season 10/TIDE LORD_chest.png"
+  },
+  {
+    "name": "TIDE LORD [H]",
+    "color": ["GH", "CB", "SK"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Iron Scales"}
+    ],
+    "image": "Gear/Season 10/TIDE LORD_helmet.png"
+  },
+  {
+    "name": "TIDE LORD [P]",
+    "color": ["WF", "HD", "DG"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Iron Scales"}
+    ],
+    "image": "Gear/Season 10/TIDE LORD_pants.png"
+  },
+  {
+    "name": "TIDE LORD [R]",
+    "color": ["DG", "KW", "WW"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Iron Scales"}
+    ],
+    "image": "Gear/Season 10/TIDE LORD_ring.png"
+  },
+  {
+    "name": "TIDE LORD [W]",
+    "color": ["WW", "BI", "GH"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Iron Scales"}
+    ],
+    "image": "Gear/Season 10/TIDE LORD_weapon.png"
+  },
+  {
+    "name": "DRAGON HEIRESS [B]",
+    "color": ["SK", "KW", "WF"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Sanguine Thread"}
+    ],
+    "image": "Gear/Season 10/DRAGON HEIRESS_boots.png"
+  },
+  {
+    "name": "DRAGON HEIRESS [C]",
+    "color": ["LS", "GH", "BI"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Sanguine Thread"}
+    ],
+    "image": "Gear/Season 10/DRAGON HEIRESS_chest.png"
+  },
+  {
+    "name": "DRAGON HEIRESS [H]",
+    "color": ["WW", "DG", "IW"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Sanguine Thread"}
+    ],
+    "image": "Gear/Season 10/DRAGON HEIRESS_helmet.png"
+  },
+  {
+    "name": "DRAGON HEIRESS [P]",
+    "color": ["CB", "SK", "KW"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Sanguine Thread"}
+    ],
+    "image": "Gear/Season 10/DRAGON HEIRESS_pants.png"
+  },
+  {
+    "name": "DRAGON HEIRESS [R]",
+    "color": ["HD", "IW", "MP"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Sanguine Thread"}
+    ],
+    "image": "Gear/Season 10/DRAGON HEIRESS_ring.png"
+  },
+  {
+    "name": "DRAGON HEIRESS [W]",
+    "color": ["MP", "CB", "GH"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Sanguine Thread"}
+    ],
+    "image": "Gear/Season 10/DRAGON HEIRESS_weapon.png"
+  },
+  {
+    "name": "QUEEN MOTHER [B]",
+    "color": ["LS", "KW", "HD"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Hightower Silk"}
+    ],
+    "image": "Gear/Season 10/QUEEN MOTHER_boots.png"
+  },
+  {
+    "name": "QUEEN MOTHER [C]",
+    "color": ["BI", "GH", "WF"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Hightower Silk"}
+    ],
+    "image": "Gear/Season 10/QUEEN MOTHER_chest.png"
+  },
+  {
+    "name": "QUEEN MOTHER [H]",
+    "color": ["WF", "SK", "DG"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Hightower Silk"}
+    ],
+    "image": "Gear/Season 10/QUEEN MOTHER_helmet.png"
+  },
+  {
+    "name": "QUEEN MOTHER [P]",
+    "color": ["WW", "BI", "LS"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Hightower Silk"}
+    ],
+    "image": "Gear/Season 10/QUEEN MOTHER_pants.png"
+  },
+  {
+    "name": "QUEEN MOTHER [R]",
+    "color": ["DG", "CB", "IW"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Hightower Silk"}
+    ],
+    "image": "Gear/Season 10/QUEEN MOTHER_ring.png"
+  },
+  {
+    "name": "QUEEN MOTHER [W]",
+    "color": ["IW", "MP", "WW"],
+    "placeCategories": [
+      {"season": "Season 10", "category": "Hightower Silk"}
+    ],
+    "image": "Gear/Season 10/QUEEN MOTHER_weapon.png"
+  },
+  {
+    "name": "FLAMED WREATHED REAVER [B]",
+    "color": ["HD", "SK", "WF"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Charred Driftwood"}
+    ],
+    "image": "Gear/Season 11/FLAMED WREATHED REAVER_boots.png"
+  },
+  {
+    "name": "FLAMED WREATHED REAVER [C]",
+    "color": ["MP", "KW", "LS"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Charred Driftwood"}
+    ],
+    "image": "Gear/Season 11/FLAMED WREATHED REAVER_chest.png"
+  },
+  {
+    "name": "FLAMED WREATHED REAVER [H]",
+    "color": ["SK", "WW", "DG"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Charred Driftwood"}
+    ],
+    "image": "Gear/Season 11/FLAMED WREATHED REAVER_helmet.png"
+  },
+  {
+    "name": "FLAMED WREATHED REAVER [P]",
+    "color": ["KW", "GH", "BI"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Charred Driftwood"}
+    ],
+    "image": "Gear/Season 11/FLAMED WREATHED REAVER_pants.png"
+  },
+  {
+    "name": "FLAMED WREATHED REAVER [R]",
+    "color": ["CB", "BI", "WF"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Charred Driftwood"}
+    ],
+    "image": "Gear/Season 11/FLAMED WREATHED REAVER_ring.png"
+  },
+  {
+    "name": "FLAMED WREATHED REAVER [W]",
+    "color": ["HD", "MP", "LS"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Charred Driftwood"}
+    ],
+    "image": "Gear/Season 11/FLAMED WREATHED REAVER_weapon.png"
+  },
+  {
+    "name": "FROSTBITTEN RANGER [B]",
+    "color": ["IW", "LS", "MP"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Frostbitten Leather"}
+    ],
+    "image": "Gear/Season 11/FROSTBITTEN RANGER_boots.png"
+  },
+  {
+    "name": "FROSTBITTEN RANGER [C]",
+    "color": ["CB", "HD", "SK"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Frostbitten Leather"}
+    ],
+    "image": "Gear/Season 11/FROSTBITTEN RANGER_chest.png"
+  },
+  {
+    "name": "FROSTBITTEN RANGER [H]",
+    "color": ["WW", "BI", "KW"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Frostbitten Leather"}
+    ],
+    "image": "Gear/Season 11/FROSTBITTEN RANGER_helmet.png"
+  },
+  {
+    "name": "FROSTBITTEN RANGER [P]",
+    "color": ["GH", "IW", "WF"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Frostbitten Leather"}
+    ],
+    "image": "Gear/Season 11/FROSTBITTEN RANGER_pants.png"
+  },
+  {
+    "name": "FROSTBITTEN RANGER [R]",
+    "color": ["DG", "WW", "CB"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Frostbitten Leather"}
+    ],
+    "image": "Gear/Season 11/FROSTBITTEN RANGER_ring.png"
+  },
+  {
+    "name": "FROSTBITTEN RANGER [W]",
+    "color": ["HD", "DG", "GH"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Frostbitten Leather"}
+    ],
+    "image": "Gear/Season 11/FROSTBITTEN RANGER_weapon.png"
+  },
+  {
+    "name": "KNIGHT OF FLOWERS [B]",
+    "color": ["LS", "DG", "BI"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Iron Laurel"}
+    ],
+    "image": "Gear/Season 11/KNIGHT OF FLOWERS_boots.png"
+  },
+  {
+    "name": "KNIGHT OF FLOWERS [C]",
+    "color": ["BI", "GH", "LS"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Iron Laurel"}
+    ],
+    "image": "Gear/Season 11/KNIGHT OF FLOWERS_chest.png"
+  },
+  {
+    "name": "KNIGHT OF FLOWERS [H]",
+    "color": ["WW", "MP", "HD"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Iron Laurel"}
+    ],
+    "image": "Gear/Season 11/KNIGHT OF FLOWERS_helmet.png"
+  },
+  {
+    "name": "KNIGHT OF FLOWERS [P]",
+    "color": ["HD", "CB", "WW"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Iron Laurel"}
+    ],
+    "image": "Gear/Season 11/KNIGHT OF FLOWERS_pants.png"
+  },
+  {
+    "name": "KNIGHT OF FLOWERS [R]",
+    "color": ["IW", "SK", "WF"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Iron Laurel"}
+    ],
+    "image": "Gear/Season 11/KNIGHT OF FLOWERS_ring.png"
+  },
+  {
+    "name": "KNIGHT OF FLOWERS [W]",
+    "color": ["WF", "KW", "IW"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Iron Laurel"}
+    ],
+    "image": "Gear/Season 11/KNIGHT OF FLOWERS_weapon.png"
+  },
+  {
+    "name": "GREENFYRE CAPTAIN [B]",
+    "color": ["MP", "LS", "DG"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Greenfyre Penny"}
+    ],
+    "image": "Gear/Season 11/GREENFYRE CAPTAIN_boots.png"
+  },
+  {
+    "name": "GREENFYRE CAPTAIN [C]",
+    "color": ["SK", "BI", "GH"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Greenfyre Penny"}
+    ],
+    "image": "Gear/Season 11/GREENFYRE CAPTAIN_chest.png"
+  },
+  {
+    "name": "GREENFYRE CAPTAIN [H]",
+    "color": ["KW", "WW", "SK"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Greenfyre Penny"}
+    ],
+    "image": "Gear/Season 11/GREENFYRE CAPTAIN_helmet.png"
+  },
+  {
+    "name": "GREENFYRE CAPTAIN [P]",
+    "color": ["CB", "IW", "KW"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Greenfyre Penny"}
+    ],
+    "image": "Gear/Season 11/GREENFYRE CAPTAIN_pants.png"
+  },
+  {
+    "name": "GREENFYRE CAPTAIN [R]",
+    "color": ["DG", "HD", "MP"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Greenfyre Penny"}
+    ],
+    "image": "Gear/Season 11/GREENFYRE CAPTAIN_ring.png"
+  },
+  {
+    "name": "GREENFYRE CAPTAIN [W]",
+    "color": ["GH", "WF", "CB"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Greenfyre Penny"}
+    ],
+    "image": "Gear/Season 11/GREENFYRE CAPTAIN_weapon.png"
+  },
+  {
+    "name": "FROZEN STARK [B]",
+    "color": ["WW", "GH", "IW"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Frozen Weirwood Sap"}
+    ],
+    "image": "Gear/Season 11/FROZEN STARK_boots.png"
+  },
+  {
+    "name": "FROZEN STARK [C]",
+    "color": ["LS", "CB", "HD"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Frozen Weirwood Sap"}
+    ],
+    "image": "Gear/Season 11/FROZEN STARK_chest.png"
+  },
+  {
+    "name": "FROZEN STARK [H]",
+    "color": ["IW", "DG", "LS"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Frozen Weirwood Sap"}
+    ],
+    "image": "Gear/Season 11/FROZEN STARK_helmet.png"
+  },
+  {
+    "name": "FROZEN STARK [P]",
+    "color": ["BI", "WF", "MP"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Frozen Weirwood Sap"}
+    ],
+    "image": "Gear/Season 11/FROZEN STARK_pants.png"
+  },
+  {
+    "name": "FROZEN STARK [R]",
+    "color": ["HD", "KW", "BI"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Frozen Weirwood Sap"}
+    ],
+    "image": "Gear/Season 11/FROZEN STARK_ring.png"
+  },
+  {
+    "name": "FROZEN STARK [W]",
+    "color": ["MP", "SK", "WW"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Frozen Weirwood Sap"}
+    ],
+    "image": "Gear/Season 11/FROZEN STARK_weapon.png"
+  },
+  {
+    "name": "FLAME LIT LANNISTER [B]",
+    "color": ["DG", "LS", "SK"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Ash Cloacked Claw"}
+    ],
+    "image": "Gear/Season 11/FLAME LIT LANNISTER_boots.png"
+  },
+  {
+    "name": "FLAME LIT LANNISTER [C]",
+    "color": ["GH", "BI", "DG"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Ash Cloacked Claw"}
+    ],
+    "image": "Gear/Season 11/FLAME LIT LANNISTER_chest.png"
+  },
+  {
+    "name": "FLAME LIT LANNISTER [H]",
+    "color": ["CB", "WW", "KW"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Ash Cloacked Claw"}
+    ],
+    "image": "Gear/Season 11/FLAME LIT LANNISTER_helmet.png"
+  },
+  {
+    "name": "FLAME LIT LANNISTER [P]",
+    "color": ["SK", "MP", "WF"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Ash Cloacked Claw"}
+    ],
+    "image": "Gear/Season 11/FLAME LIT LANNISTER_pants.png"
+  },
+  {
+    "name": "FLAME LIT LANNISTER [R]",
+    "color": ["WF", "HD", "CB"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Ash Cloacked Claw"}
+    ],
+    "image": "Gear/Season 11/FLAME LIT LANNISTER_ring.png"
+  },
+  {
+    "name": "FLAME LIT LANNISTER [W]",
+    "color": ["KW", "IW", "GH"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Ash Cloacked Claw"}
+    ],
+    "image": "Gear/Season 11/FLAME LIT LANNISTER_weapon.png"
+  },
+  {
+    "name": "ONE EYED PRINCE [B]",
+    "color": ["BI", "WF", "LS"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Targaryen Cloth Bolt"}
+    ],
+    "image": "Gear/Season 11/ONE EYED PRINCE_boots.png"
+  },
+  {
+    "name": "ONE EYED PRINCE [C]",
+    "color": ["LS", "SK", "BI"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Targaryen Cloth Bolt"}
+    ],
+    "image": "Gear/Season 11/ONE EYED PRINCE_chest.png"
+  },
+  {
+    "name": "ONE EYED PRINCE [H]",
+    "color": ["WW", "KW", "IW"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Targaryen Cloth Bolt"}
+    ],
+    "image": "Gear/Season 11/ONE EYED PRINCE_helmet.png"
+  },
+  {
+    "name": "ONE EYED PRINCE [P]",
+    "color": ["HD", "MP", "WW"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Targaryen Cloth Bolt"}
+    ],
+    "image": "Gear/Season 11/ONE EYED PRINCE_pants.png"
+  },
+  {
+    "name": "ONE EYED PRINCE [R]",
+    "color": ["IW", "CB", "HD"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Targaryen Cloth Bolt"}
+    ],
+    "image": "Gear/Season 11/ONE EYED PRINCE_ring.png"
+  },
+  {
+    "name": "ONE EYED PRINCE [W]",
+    "color": ["DG", "GH", "WF"],
+    "placeCategories": [
+      {"season": "Season 11", "category": "Targaryen Cloth Bolt"}
+    ],
+    "image": "Gear/Season 11/ONE EYED PRINCE_weapon.png"
+  },
+  {
+    "name": "CHILLED CORSAIR [B]",
+    "color": ["GH", "LS", "MP"],
+    "placeCategories": [
+      {"season": "Season 12", "category": "Frost Crusted Abalone"}
+    ],
+    "image": "Gear/Season 12/CHILLED CORSAIR_boots.png"
+  },
+  {
+    "name": "CHILLED CORSAIR [C]",
+    "color": ["DG", "BI", "SK"],
+    "placeCategories": [
+      {"season": "Season 12", "category": "Frost Crusted Abalone"}
+    ],
+    "image": "Gear/Season 12/CHILLED CORSAIR_chest.png"
+  },
+  {
+    "name": "CHILLED CORSAIR [H]",
+    "color": ["SK", "WW", "CB"],
+    "placeCategories": [
+      {"season": "Season 12", "category": "Frost Crusted Abalone"}
+    ],
+    "image": "Gear/Season 12/CHILLED CORSAIR_helmet.png"
+  },
+  {
+    "name": "CHILLED CORSAIR [P]",
+    "color": ["MP", "WF", "KW"],
+    "placeCategories": [
+      {"season": "Season 12", "category": "Frost Crusted Abalone"}
+    ],
+    "image": "Gear/Season 12/CHILLED CORSAIR_pants.png"
+  },
+  {
+    "name": "CHILLED CORSAIR [R]",
+    "color": ["KW", "IW", "GH"],
+    "placeCategories": [
+      {"season": "Season 12", "category": "Frost Crusted Abalone"}
+    ],
+    "image": "Gear/Season 12/CHILLED CORSAIR_ring.png"
+  },
+  {
+    "name": "CHILLED CORSAIR [W]",
+    "color": ["CB", "HD", "DG"],
+    "placeCategories": [
+      {"season": "Season 12", "category": "Frost Crusted Abalone"}
+    ],
+    "image": "Gear/Season 12/CHILLED CORSAIR_weapon.png"
+  },
+  {
+    "name": "BURNING USURPER [B]",
+    "color": ["LS", "CB", "IW"],
+    "placeCategories": [
+      {"season": "Season 12", "category": "Burning Stag Hide"}
+    ],
+    "image": "Gear/Season 12/BURNING USURPER_boots.png"
+  },
+  {
+    "name": "BURNING USURPER [C]",
+    "color": ["BI", "GH", "WF"],
+    "placeCategories": [
+      {"season": "Season 12", "category": "Burning Stag Hide"}
+    ],
+    "image": "Gear/Season 12/BURNING USURPER_chest.png"
+  },
+  {
+    "name": "BURNING USURPER [H]",
+    "color": ["WW", "DG", "HD"],
+    "placeCategories": [
+      {"season": "Season 12", "category": "Burning Stag Hide"}
+    ],
+    "image": "Gear/Season 12/BURNING USURPER_helmet.png"
+  },
+  {
+    "name": "BURNING USURPER [P]",
+    "color": ["IW", "MP", "WW"],
+    "placeCategories": [
+      {"season": "Season 12", "category": "Burning Stag Hide"}
+    ],
+    "image": "Gear/Season 12/BURNING USURPER_pants.png"
+  },
+  {
+    "name": "BURNING USURPER [R]",
+    "color": ["HD", "SK", "BI"],
+    "placeCategories": [
+      {"season": "Season 12", "category": "Burning Stag Hide"}
+    ],
+    "image": "Gear/Season 12/BURNING USURPER_ring.png"
+  },
+  {
+    "name": "BURNING USURPER [W]",
+    "color": ["WF", "KW", "LS"],
+    "placeCategories": [
+      {"season": "Season 12", "category": "Burning Stag Hide"}
+    ],
+    "image": "Gear/Season 12/BURNING USURPER_weapon.png"
+  },
+  {
+    "name": "DRAGONFLAME WARRIOR [B]",
+    "color": ["HD", "MP", "GH"],
+    "placeCategories": [
+      {"season": "Season 12", "category": "Combusted Leather"}
+    ],
+    "image": "Gear/Season 12/DRAGONFLAME WARRIOR_boots.png"
+  },
+  {
+    "name": "DRAGONFLAME WARRIOR [C]",
+    "color": ["BI", "SK", "DG"],
+    "placeCategories": [
+      {"season": "Season 12", "category": "Combusted Leather"}
+    ],
+    "image": "Gear/Season 12/DRAGONFLAME WARRIOR_chest.png"
+  },
+  {
+    "name": "DRAGONFLAME WARRIOR [H]",
+    "color": ["WF", "KW", "CB"],
+    "placeCategories": [
+      {"season": "Season 12", "category": "Combusted Leather"}
+    ],
+    "image": "Gear/Season 12/DRAGONFLAME WARRIOR_helmet.png"
+  },
+  {
+    "name": "DRAGONFLAME WARRIOR [P]",
+    "color": ["LS", "CB", "MP"],
+    "placeCategories": [
+      {"season": "Season 12", "category": "Combusted Leather"}
+    ],
+    "image": "Gear/Season 12/DRAGONFLAME WARRIOR_pants.png"
+  },
+  {
+    "name": "DRAGONFLAME WARRIOR [R]",
+    "color": ["GH", "WW", "SK"],
+    "placeCategories": [
+      {"season": "Season 12", "category": "Combusted Leather"}
+    ],
+    "image": "Gear/Season 12/DRAGONFLAME WARRIOR_ring.png"
+  },
+  {
+    "name": "DRAGONFLAME WARRIOR [W]",
+    "color": ["DG", "IW", "KW"],
+    "placeCategories": [
+      {"season": "Season 12", "category": "Combusted Leather"}
+    ],
+    "image": "Gear/Season 12/DRAGONFLAME WARRIOR_weapon.png"
+  },
+  {
+    "name": "GOLDEN ROSE [B]",
+    "color": ["WW", "LS", "BI"],
+    "placeCategories": [
+      {"season": "Season 12", "category": "Myrish Lace"}
+    ],
+    "image": "Gear/Season 12/GOLDEN ROSE_boots.png"
+  },
+  {
+    "name": "GOLDEN ROSE [C]",
+    "color": ["HD", "IW", "WW"],
+    "placeCategories": [
+      {"season": "Season 12", "category": "Myrish Lace"}
+    ],
+    "image": "Gear/Season 12/GOLDEN ROSE_chest.png"
+  },
+  {
+    "name": "GOLDEN ROSE [H]",
+    "color": ["KW", "MP", "IW"],
+    "placeCategories": [
+      {"season": "Season 12", "category": "Myrish Lace"}
+    ],
+    "image": "Gear/Season 12/GOLDEN ROSE_helmet.png"
+  },
+  {
+    "name": "GOLDEN ROSE [P]",
+    "color": ["SK", "CB", "HD"],
+    "placeCategories": [
+      {"season": "Season 12", "category": "Myrish Lace"}
+    ],
+    "image": "Gear/Season 12/GOLDEN ROSE_pants.png"
+  },
+  {
+    "name": "GOLDEN ROSE [R]",
+    "color": ["DG", "WF", "LS"],
+    "placeCategories": [
+      {"season": "Season 12", "category": "Myrish Lace"}
+    ],
+    "image": "Gear/Season 12/GOLDEN ROSE_ring.png"
+  },
+  {
+    "name": "GOLDEN ROSE [W]",
+    "color": ["BI", "GH", "WF"],
+    "placeCategories": [
+      {"season": "Season 12", "category": "Myrish Lace"}
+    ],
+    "image": "Gear/Season 12/GOLDEN ROSE_weapon.png"
+  },
+  {
+    "name": "SCORCHED DORNISH [B]",
+    "color": ["DG", "BI", "SK"],
+    "placeCategories": [
+      {"season": "Season 12", "category": "Scorched Horsehair Tassel"}
+    ],
+    "image": "Gear/Season 12/SCORCHED DORNISH_boots.png"
+  },
+  {
+    "name": "SCORCHED DORNISH [C]",
+    "color": ["GH", "WW", "DG"],
+    "placeCategories": [
+      {"season": "Season 12", "category": "Scorched Horsehair Tassel"}
+    ],
+    "image": "Gear/Season 12/SCORCHED DORNISH_chest.png"
+  },
+  {
+    "name": "SCORCHED DORNISH [H]",
+    "color": ["MP", "LS", "CB"],
+    "placeCategories": [
+      {"season": "Season 12", "category": "Scorched Horsehair Tassel"}
+    ],
+    "image": "Gear/Season 12/SCORCHED DORNISH_helmet.png"
+  },
+  {
+    "name": "SCORCHED DORNISH [P]",
+    "color": ["CB", "HD", "GH"],
+    "placeCategories": [
+      {"season": "Season 12", "category": "Scorched Horsehair Tassel"}
+    ],
+    "image": "Gear/Season 12/SCORCHED DORNISH_pants.png"
+  },
+  {
+    "name": "SCORCHED DORNISH [R]",
+    "color": ["SK", "WF", "KW"],
+    "placeCategories": [
+      {"season": "Season 12", "category": "Scorched Horsehair Tassel"}
+    ],
+    "image": "Gear/Season 12/SCORCHED DORNISH_ring.png"
+  },
+  {
+    "name": "SCORCHED DORNISH [W]",
+    "color": ["KW", "IW", "MP"],
+    "placeCategories": [
+      {"season": "Season 12", "category": "Scorched Horsehair Tassel"}
+    ],
+    "image": "Gear/Season 12/SCORCHED DORNISH_weapon.png"
+  },
+  {
+    "name": "FROSTFANG THENN [B]",
+    "color": ["BI", "GH", "KW"],
+    "placeCategories": [
+      {"season": "Season 12", "category": "Frostfang Bronze Discs"}
+    ],
+    "image": "Gear/Season 12/FROSTFANG THENN_boots.png"
+  },
+  {
+    "name": "FROSTFANG THENN [C]",
+    "color": ["HD", "WF", "LS"],
+    "placeCategories": [
+      {"season": "Season 12", "category": "Frostfang Bronze Discs"}
+    ],
+    "image": "Gear/Season 12/FROSTFANG THENN_chest.png"
+  },
+  {
+    "name": "FROSTFANG THENN [H]",
+    "color": ["LS", "CB", "BI"],
+    "placeCategories": [
+      {"season": "Season 12", "category": "Frostfang Bronze Discs"}
+    ],
+    "image": "Gear/Season 12/FROSTFANG THENN_helmet.png"
+  },
+  {
+    "name": "FROSTFANG THENN [P]",
+    "color": ["IW", "MP", "WW"],
+    "placeCategories": [
+      {"season": "Season 12", "category": "Frostfang Bronze Discs"}
+    ],
+    "image": "Gear/Season 12/FROSTFANG THENN_pants.png"
+  },
+  {
+    "name": "FROSTFANG THENN [R]",
+    "color": ["WW", "GH", "HD"],
+    "placeCategories": [
+      {"season": "Season 12", "category": "Frostfang Bronze Discs"}
+    ],
+    "image": "Gear/Season 12/FROSTFANG THENN_ring.png"
+  },
+  {
+    "name": "FROSTFANG THENN [W]",
+    "color": ["DG", "SK", "IW"],
+    "placeCategories": [
+      {"season": "Season 12", "category": "Frostfang Bronze Discs"}
+    ],
+    "image": "Gear/Season 12/FROSTFANG THENN_weapon.png"
+  },
+  {
+  "name": "CTW [B]",
+  "color": ["MP", "HD", "IW", "GH"],
+  "placeCategories": [
+    {"season": "Season 3"}
+  ],
+  "image": "Gear/Season 3/CTW_boots.png"
+  },
+  {
+    "name": "CTW [C]",
+    "color": ["SK", "BI", "CB", "DG"],
+    "placeCategories": [
+      {"season": "Season 3"}
+    ],
+    "image": "Gear/Season 3/CTW_chest.png"
+  },
+  {
+    "name": "CTW [H]",
+    "color": ["KW", "WF", "HD", "MP"],
+    "placeCategories": [
+      {"season": "Season 3"}
+    ],
+    "image": "Gear/Season 3/CTW_helmet.png"
+  },
+  {
+    "name": "CTW [P]",
+    "color": ["WW", "LS", "BI", "SK"],
+    "placeCategories": [
+      {"season": "Season 3"}
+    ],
+    "image": "Gear/Season 3/CTW_pants.png"
+  },
+  {
+    "name": "CTW [R]",
+    "color": ["IW", "GH", "WF", "KW"],
+    "placeCategories": [
+      {"season": "Season 3"}
+    ],
+    "image": "Gear/Season 3/CTW_ring.png"
+  },
+  {
+    "name": "CTW [W]",
+    "color": ["CB", "DG", "LS", "WW"],
+    "placeCategories": [
+      {"season": "Season 3"}
+    ],
+    "image": "Gear/Season 3/CTW_weapon.png"
+  }
+]
